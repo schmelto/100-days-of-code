@@ -7,7 +7,13 @@
 **Link to work:** https://github.com/schmelto/calculator
 
 
+### Day 1: December 15, 2020 (Ideas - Brainstorming)
 
+**Today's Progress**:
+
+**Link to work:**
+
+![ideas](../img/ideas.jpg)
 
 
 
