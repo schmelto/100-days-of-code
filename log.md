@@ -15,6 +15,8 @@
 
 ![ideas](/img/2020_12_15-ideas.jpg)
 
+![newsapp](/img/2020_12_15-NewsApp.jpg)
+
 
 
 
