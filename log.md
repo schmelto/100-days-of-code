@@ -9,11 +9,11 @@
 
 ### Day 1: December 15, 2020 (Ideas - Brainstorming)
 
-**Today's Progress**:
+**Today's Progress**: I made a little brainstorm session what projects I can do.
 
 **Link to work:**
 
-![ideas](/img/ideas.jpg)
+![ideas](/img/2020_12_15-ideas.jpg)
 
 
 
