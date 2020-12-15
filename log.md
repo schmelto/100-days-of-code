@@ -13,7 +13,7 @@ Build an online calculator app with vanilla JavaScipt, HMTL and CSS.
 
 **Today's Progress**:
 I made a little brainstorm session what projects I can do.
-Also I created an Ionic Angular App for my first project the NewsApp.
+Also I created an Ionic Angular App for my first project the NewsApp and created a first call of the news API.
 
 **Link to work:**
 * [ideas](/img/2020_12_15-ideas.jpg)
