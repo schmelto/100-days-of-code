@@ -13,7 +13,7 @@
 
 **Link to work:**
 
-![ideas](../img/ideas.jpg)
+![ideas](/img/ideas.jpg)
 
 
 
