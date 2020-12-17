@@ -49,7 +49,6 @@ import { Observable, Subject } from 'rxjs';
   providedIn: 'root'
 })
 export class EventlistenerService {
-
   private subject = new Subject<any>();
 
   sendClickEvent() {
@@ -57,7 +56,6 @@ export class EventlistenerService {
   }
 
   getClickEvent(): Observable<any>{ 
-
     return this.subject.asObservable();
   }
 
