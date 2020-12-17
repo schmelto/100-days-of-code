@@ -15,9 +15,11 @@ Build an online calculator app with vanilla JavaScipt, HMTL and CSS.
 I made a little brainstorm session what projects I can do.
 Also I created an Ionic Angular App for my first project the NewsApp and created a first call of the news API.
 
+![ideas](./img/2020-12-15-ideas.jpg)
+![newsapp](./img/2020-12-15-NewsApp.jpg)
+
 **Link to work:**
-* [ideas](/img/2020_12_15-ideas.jpg)
-* [newsapp](/img/2020_12_15-NewsApp.jpg)
+
 * https://github.com/schmelto/NewsApp
 
 
@@ -26,6 +28,8 @@ Also I created an Ionic Angular App for my first project the NewsApp and created
 **Today's Progress**:
 I have implemented the right route to newsAPI and added top-headlines and everything.
 I tried to add also the country but this will be open for tomorrow. Also the searchstring need to be implemented for "everything".
+
+![update](./img/2020-12-16-update.jpg)
 
 **Link to work:**
 
@@ -59,10 +63,14 @@ export class EventlistenerService {
 
 }
 ```
+Also i implemented a search bar for browsing all news.
+
+![search](./img/2020-12-17-search.jpg)
 
 **Link to work:**
 
 * https://github.com/schmelto/NewsApp/commit/d7c13807ddec65bd8e5dfac7942bc3e6f73b0df0
+* https://github.com/schmelto/NewsApp/commit/0ef3ef6d491eaa106ec20788bd349ce2bef3b757
 
 
 
