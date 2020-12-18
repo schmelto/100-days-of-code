@@ -75,7 +75,7 @@ Also i implemented a search bar for browsing all news.
 
 **Today's Progress**:
 
-I've added a GPG Key to verify my commits. Futher I addad a infinity scroll and refresh on pull down.
+I've added a GPG Key to verify my commits but this did not work as I want it :D. Futher I addad a infinity scroll and refresh on pull down.
 
 **Link to work:**
 
