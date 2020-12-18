@@ -75,10 +75,11 @@ Also i implemented a search bar for browsing all news.
 
 **Today's Progress**:
 
-I've added a GPG Key to verify my commits.
-
+I've added a GPG Key to verify my commits. Futher I addad a infinity scroll and refresh on pull down.
 
 **Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/8854de26fa913867de7422867b379f9c0cd1959d
 
 
 ### Day X: October 01, 2020 (Title)
