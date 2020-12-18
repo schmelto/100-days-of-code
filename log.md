@@ -71,6 +71,13 @@ Also i implemented a search bar for browsing all news.
 * https://github.com/schmelto/NewsApp/commit/0ef3ef6d491eaa106ec20788bd349ce2bef3b757
 
 
+### Day 004: December 18, 2020 (Verified)
+
+**Today's Progress**:
+
+
+
+**Link to work:**
 
 
 ### Day X: October 01, 2020 (Title)
