@@ -75,6 +75,7 @@ Also i implemented a search bar for browsing all news.
 
 **Today's Progress**:
 
+I've added a GPG Key to verify my commits.
 
 
 **Link to work:**
