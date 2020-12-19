@@ -71,7 +71,7 @@ Also i implemented a search bar for browsing all news.
 * https://github.com/schmelto/NewsApp/commit/0ef3ef6d491eaa106ec20788bd349ce2bef3b757
 
 
-### Day 004: December 18, 2020 (Verified)
+### Day 004: December 18, 2020 (Verified Infinity Scroll and Reload)
 
 **Today's Progress**:
 
@@ -80,6 +80,18 @@ I've added a GPG Key to verify my commits but this did not work as I want it :D.
 **Link to work:**
 
 * https://github.com/schmelto/NewsApp/commit/8854de26fa913867de7422867b379f9c0cd1959d
+
+### Day 005: December 19, 2020 (Detail-View)
+
+**Today's Progress**:
+
+Today I#ve added a Detail view the articles in the news app and made a working back button. Futher I solved some bugs in the app.
+
+![Detail](./img/2020-12-19-detail.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/issues/10
 
 
 ### Day X: October 01, 2020 (Title)
