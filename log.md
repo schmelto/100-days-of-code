@@ -85,7 +85,7 @@ I've added a GPG Key to verify my commits but this did not work as I want it :D.
 
 **Today's Progress**:
 
-Today I#ve added a Detail view the articles in the news app and made a working back button. Futher I solved some bugs in the app.
+Today I#ve added a Detail view the articles in the news app and made a working back button. Further  I solved some bugs in the app.
 
 ![Detail](./img/2020-12-19-detail.jpg)
 
