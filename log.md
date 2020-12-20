@@ -85,7 +85,7 @@ I've added a GPG Key to verify my commits but this did not work as I want it :D.
 
 **Today's Progress**:
 
-Today I#ve added a Detail view the articles in the news app and made a working back button. Further  I solved some bugs in the app.
+Today I've added a Detail view the articles in the news app and made a working back button. Further I solved some bugs in the app.
 
 ![Detail](./img/2020-12-19-detail.jpg)
 
@@ -94,8 +94,15 @@ Today I#ve added a Detail view the articles in the news app and made a working b
 * https://github.com/schmelto/NewsApp/issues/10
 
 
-### Day X: October 01, 2020 (Title)
+### Day 006: December 19, 2020 (Categories)
 
 **Today's Progress**:
 
+I added category selection to the news app
+
+![Category](./img/2020-12-20-categories.jpg)
+
 **Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/75c35636c14c062431d7149e3e654db69d3ce515
+
