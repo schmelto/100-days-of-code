@@ -125,3 +125,13 @@ getData(type, country, category, search, page, language, from, to, sortBy) {
 **Link to work:**
 
 * https://github.com/schmelto/NewsApp/commit/db7d1f71c8ca26ec798f6a3779940092e82dcf8c
+
+### Day 008: December 22, 2020 (Release)
+
+**Today's Progress**:
+
+I resolve the last bugs in the news app and tried to release it to my android prhone
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/5ec22a9fd8846a1d82f3bf595588b777002797d1
