@@ -130,8 +130,21 @@ getData(type, country, category, search, page, language, from, to, sortBy) {
 
 **Today's Progress**:
 
-I resolve the last bugs in the news app and tried to release it to my android prhone
+I resolve the last bugs in the news app and tried to release it to my android phone.
 
 **Link to work:**
 
 * https://github.com/schmelto/NewsApp/commit/5ec22a9fd8846a1d82f3bf595588b777002797d1
+
+
+### Day 009: December 23, 2020 (Release V1.0.0)
+
+**Today's Progress**:
+
+I released version 1.0.0 of the app as signed apk for android and installed the app on my phone.
+Since this project is finished for now I have to look for something new for the #100daysofcode challange.
+But this is something for tomorrow :) because tomorrow it's the 24th December (Christmas :christmas_tree:).  
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/releases/tag/1.0.0
