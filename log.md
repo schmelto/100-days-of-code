@@ -94,7 +94,7 @@ Today I've added a Detail view the articles in the news app and made a working b
 * https://github.com/schmelto/NewsApp/issues/10
 
 
-### Day 006: December 19, 2020 (Categories)
+### Day 006: December 20, 2020 (Categories)
 
 **Today's Progress**:
 
@@ -106,3 +106,45 @@ I added category selection to the news app
 
 * https://github.com/schmelto/NewsApp/commit/75c35636c14c062431d7149e3e654db69d3ce515
 
+
+### Day 007: December 21, 2020 (Selection)
+
+**Today's Progress**:
+
+Today I added lots of select options to the news app and updated the news.service api call.
+
+```javascript
+getData(type, country, category, search, page, language, from, to, sortBy) {
+  if (type == 'top-headlines') return this.http.get(`${API_URL}/${type}?pageSize=5&page=${page}&country=${country}&category=${category}&apiKey=${API_KEY}`);
+  else return this.http.get(`${API_URL}/${type}?pageSize=5&page=${page}&q=${search}&language=${language}&from=${from}&to=${to}&sortBy=${sortBy}&apiKey=${API_KEY}`);     
+}
+ ```
+
+![Selection](./img/2020-12-21-selection.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/db7d1f71c8ca26ec798f6a3779940092e82dcf8c
+
+### Day 008: December 22, 2020 (Release)
+
+**Today's Progress**:
+
+I resolve the last bugs in the news app and tried to release it to my android phone.
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/5ec22a9fd8846a1d82f3bf595588b777002797d1
+
+
+### Day 009: December 23, 2020 (Release V1.0.0)
+
+**Today's Progress**:
+
+I released version 1.0.0 of the app as signed apk for android and installed the app on my phone.
+Since this project is finished for now I have to look for something new for the #100daysofcode challange.
+But this is something for tomorrow :) because tomorrow it's the 24th December (Christmas :christmas_tree:).  
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/releases/tag/1.0.0
