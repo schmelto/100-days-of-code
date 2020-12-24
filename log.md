@@ -148,3 +148,15 @@ But this is something for tomorrow :) because tomorrow it's the 24th December (C
 **Link to work:**
 
 * https://github.com/schmelto/NewsApp/releases/tag/1.0.0
+
+### Day 010: December 24, 2020 (Found A BUG!!!!)
+
+**Today's Progress**:
+
+Oh men, found a bug in the news app and can't find the solution it does not reset the parameters and data after changing one of them afther loading page 2 or more... Opened a question on StackOverflow.
+
+![Selection](./img/2020-12-24-bug.jpg)
+
+**Link to work:**
+
+* https://stackoverflow.com/questions/65440704/how-to-wait-for-methods-called-in-a-subscription
