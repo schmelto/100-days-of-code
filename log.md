@@ -153,7 +153,7 @@ But this is something for tomorrow :) because tomorrow it's the 24th December (C
 
 **Today's Progress**:
 
-Oh men, found a bug in the news app and can't find the solution it does not reset the parameters and data after changing one of them afther loading page 2 or more... Opened a question on StackOverflow.
+Oh men, found a bug in the news app and can't find the solution it does not reset the parameters and data after changing one of them after loading page 2 or more... Opened a question on StackOverflow.
 
 ![Bug](./img/2020-12-24-bug.jpg)
 
