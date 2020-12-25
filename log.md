@@ -166,6 +166,10 @@ Found a bug in the news app and can't find the solution it does not reset the pa
 **Today's Progress**:
 
 Finally resolved the bug *_* Now lets move on!
+Remindner for me dont use the `ngOnInit()`-Function somewhere else!!!
+
+Now I want to go for the webcrawler-project or some data science stuff. Lets get starting with Python for this!
+![Python](./img/2020-12-25-python.jpg)
 
 **Link to work:**
 
