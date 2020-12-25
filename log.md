@@ -153,10 +153,20 @@ But this is something for tomorrow :) because tomorrow it's the 24th December (C
 
 **Today's Progress**:
 
-Oh men, found a bug in the news app and can't find the solution it does not reset the parameters and data after changing one of them after loading page 2 or more... Opened a question on StackOverflow.
+Found a bug in the news app and can't find the solution it does not reset the parameters and data after changing one of them after loading page 2 or more... Opened a question on StackOverflow.
 
 ![Bug](./img/2020-12-24-bug.jpg)
 
 **Link to work:**
 
 * https://stackoverflow.com/questions/65440704/how-to-wait-for-methods-called-in-a-subscription
+
+### Day 011: December 24, 2020 (Resolved the Bug finally *_*)
+
+**Today's Progress**:
+
+Finally resolved the bug *_* Now lets move on!
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/4d285cce866103262d5bfb691bbf390d895de647
