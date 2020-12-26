@@ -175,7 +175,7 @@ Now I want to go for the webcrawler-project or some data science stuff. Lets get
 
 * https://github.com/schmelto/NewsApp/commit/4d285cce866103262d5bfb691bbf390d895de647
 
-### Day 011: December 26, 2020 (Tensorflow)
+### Day 012: December 26, 2020 (Tensorflow)
 
 **Today's Progress**:
 
