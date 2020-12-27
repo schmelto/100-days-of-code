@@ -185,3 +185,15 @@ I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind
 
 * https://github.com/schmelto/machine-learning-with-python
 
+### Day 013: December 27, 2020 (Release 1.0.1)
+
+**Today's Progress**:
+
+Litle bit lazy today but released v1.0.1 for the news app
+
+![release](./img/2020-12-27-release.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/32e81e6c95b66061d315a73da4e3a73dd1cfa9f2
+
