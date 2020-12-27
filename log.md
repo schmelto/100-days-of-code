@@ -161,12 +161,27 @@ Found a bug in the news app and can't find the solution it does not reset the pa
 
 * https://stackoverflow.com/questions/65440704/how-to-wait-for-methods-called-in-a-subscription
 
-### Day 011: December 24, 2020 (Resolved the Bug finally *_*)
+### Day 011: December 25, 2020 (Resolved the Bug finally *_*)
 
 **Today's Progress**:
 
 Finally resolved the bug *_* Now lets move on!
+Remindner for me dont use the `ngOnInit()`-Function somewhere else!!!
+
+Now I want to go for the webcrawler-project or some data science stuff. Lets get starting with Python for this!
+![Python](./img/2020-12-25-python.jpg)
 
 **Link to work:**
 
 * https://github.com/schmelto/NewsApp/commit/4d285cce866103262d5bfb691bbf390d895de647
+
+### Day 012: December 26, 2020 (Tensorflow)
+
+**Today's Progress**:
+
+I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind 100daysofcode but I need those information for some data science stuff programms I want to build :)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning-with-python
+
