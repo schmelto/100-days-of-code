@@ -189,7 +189,7 @@ I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind
 
 **Today's Progress**:
 
-Litle bit lazy today but released v1.0.1 for the news app
+Little bit lazy today but released v1.0.1 for the news app
 
 ![release](./img/2020-12-27-release.jpg)
 
