@@ -202,8 +202,16 @@ Little bit lazy today but released v1.0.1 for the news app
 **Today's Progress**:
 
 Today fixt an other bug in the news app and release it to version 1.0.2 :] somehow it's getting better over time.
+Futher I look a little bit at the titanic dataset from tensorflow.
+
+```python
+dftrain = pd.read_csv('https://storage.googleapis.com/tf-datasets/titanic/train.csv') # training data
+dfeval = pd.read_csv('https://storage.googleapis.com/tf-datasets/titanic/eval.csv') # testing data
+```
+
 
 **Link to work:**
 
 * https://github.com/schmelto/NewsApp/commit/bbaa65fe54c788e8cce072c0557231bf0100866c
+* https://colab.research.google.com/github/schmelto/machine-learning-with-python/blob/main/Core_Learning_Algorithms.ipynb#scrollTo=CpllWsKIOGOy
 
