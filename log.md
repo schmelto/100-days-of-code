@@ -185,3 +185,33 @@ I started the FreeCodeCamps Mashine Learning Course not initialy the idea behind
 
 * https://github.com/schmelto/machine-learning-with-python
 
+### Day 013: December 27, 2020 (Release 1.0.1)
+
+**Today's Progress**:
+
+Little bit lazy today but released v1.0.1 for the news app
+
+![release](./img/2020-12-27-release.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/32e81e6c95b66061d315a73da4e3a73dd1cfa9f2
+
+### Day 014: December 28, 2020 (Release 1.0.2 & Machine Learning)
+
+**Today's Progress**:
+
+Today fixt an other bug in the news app and release it to version 1.0.2 :] somehow it's getting better over time.
+Futher I look a little bit at the titanic dataset from tensorflow.
+
+```python
+dftrain = pd.read_csv('https://storage.googleapis.com/tf-datasets/titanic/train.csv') # training data
+dfeval = pd.read_csv('https://storage.googleapis.com/tf-datasets/titanic/eval.csv') # testing data
+```
+
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/bbaa65fe54c788e8cce072c0557231bf0100866c
+* https://colab.research.google.com/github/schmelto/machine-learning-with-python/blob/main/Core_Learning_Algorithms.ipynb#scrollTo=CpllWsKIOGOy
+
