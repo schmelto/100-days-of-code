@@ -208,7 +208,7 @@ Futher I look a little bit at the titanic dataset from tensorflow.
 dftrain = pd.read_csv('https://storage.googleapis.com/tf-datasets/titanic/train.csv') # training data
 dfeval = pd.read_csv('https://storage.googleapis.com/tf-datasets/titanic/eval.csv') # testing data
 ```
-![titanic](./img/2020-12-28-titnic.jpg)
+![titanic](./img/2020-12-28-titanic.jpg)
 
 **Link to work:**
 
