@@ -197,3 +197,13 @@ Little bit lazy today but released v1.0.1 for the news app
 
 * https://github.com/schmelto/NewsApp/commit/32e81e6c95b66061d315a73da4e3a73dd1cfa9f2
 
+### Day 014: December 28, 2020 (Release 1.0.2 & Machine Learning)
+
+**Today's Progress**:
+
+Today fixt an other bug in the news app and release it to version 1.0.2 :] somehow it's getting better over time.
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/bbaa65fe54c788e8cce072c0557231bf0100866c
+
