@@ -240,3 +240,13 @@ eval_input_fn = make_input_fn(dfeval, y_eval, num_epochs=1, shuffle=False)
 **Link to work:**
 
 * https://colab.research.google.com/github/schmelto/machine-learning-with-python/blob/main/Core_Learning_Algorithms.ipynb#scrollTo=CpllWsKIOGOy
+
+### Day 016: December 30, 2020 (More learning)
+
+**Today's Progress**:
+
+Learned something more
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning-with-python/commit/f4ab2fbc9e5adacfacdee2cc01c50974e62ad471
