@@ -250,3 +250,15 @@ Learned something more
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning-with-python/commit/f4ab2fbc9e5adacfacdee2cc01c50974e62ad471
+
+### Day 017: December 31, 2020 (Deeplearning with Python - MNIST)
+
+**Today's Progress**:
+
+I created a little model for prediction the MNIST-Dataset.
+
+![mnist](./img/2020-12-31-mnist.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning-with-python/commit/76ea931acc90d55566214aa961e9f8792e5f695d
