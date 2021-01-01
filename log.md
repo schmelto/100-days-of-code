@@ -302,6 +302,9 @@ eval_loss, eval_accuracy = model.evaluate(test_images, test_vec_labels, verbose=
 print("Model accuracy: %.2f" % eval_accuracy)
 ```
 
+Further I added a readme to the NewsApp.
+
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning-with-python/commit/0e1a3763c94e539abccf9641d7f495d832c080f2
+* https://github.com/schmelto/NewsApp/blob/master/README.md
