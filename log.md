@@ -262,3 +262,47 @@ I created a little model for prediction the MNIST-Dataset.
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning-with-python/commit/76ea931acc90d55566214aa961e9f8792e5f695d
+
+### Day 018: Januar 01, 2021 (Fashion MNIST)
+
+**Today's Progress**:
+
+I tried on myself to predict the fashion MNIST dataset.
+
+````python
+import tensorflow as tf
+from tensorflow import keras
+import numpy as np
+import matplotlib.pyplot as plt
+
+data = keras.datasets.fashion_mnist
+(train_images, train_labels), (test_images, test_labels) = data.load_data()
+
+train_images = train_images / 255.0
+test_images = test_images / 255.0
+
+total_classes = 10
+train_vec_labels = keras.utils.to_categorical(train_labels, total_classes)
+test_vec_labels = keras.utils.to_categorical(test_labels, total_classes)
+
+
+model = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='sigmoid'), 
+    keras.layers.Dense(10, activation='sigmoid')
+])
+
+model.compile(
+    optimizer='sgd',
+    loss='mean_squared_error',
+    metrics=['accuracy'])
+    
+model.fit(train_images, train_vec_labels, epochs=50, verbose=True)
+
+eval_loss, eval_accuracy = model.evaluate(test_images, test_vec_labels, verbose=False)
+print("Model accuracy: %.2f" % eval_accuracy)
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning-with-python/commit/0e1a3763c94e539abccf9641d7f495d832c080f2
