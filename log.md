@@ -269,7 +269,7 @@ I created a little model for prediction the MNIST-Dataset.
 
 I tried on myself to predict the fashion MNIST dataset.
 
-````python
+```python
 import tensorflow as tf
 from tensorflow import keras
 import numpy as np
