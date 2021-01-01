@@ -285,7 +285,6 @@ total_classes = 10
 train_vec_labels = keras.utils.to_categorical(train_labels, total_classes)
 test_vec_labels = keras.utils.to_categorical(test_labels, total_classes)
 
-
 model = keras.Sequential([
     keras.layers.Flatten(input_shape=(28, 28)),
     keras.layers.Dense(128, activation='sigmoid'), 
