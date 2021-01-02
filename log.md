@@ -317,14 +317,40 @@ I've updated the [README](https://github.com/schmelto/NewsApp#readme) of the [Ne
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/schmelto/NewsApp?style=for-the-badge)
 
-Further I made some small changes in the [machine learning](https://github.com/schmelto/machine-learning) repo.
+Further I made some small changes in the [machine learning](https://github.com/schmelto/machine-learning) repo. Also I added an introduction to Numpy and evaluated activation functions of the newtworks.
 
 
 ```python
+model_relu = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='relu'),
+    keras.layers.Dense(10, activation='sigmoid')
+])
 
+model_linear = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='linear'),
+    keras.layers.Dense(10, activation='linear')
+])
+
+model_sigmoid = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='sigmoid'),
+    keras.layers.Dense(10, activation='sigmoid')
+])
+
+model_tanh = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='tanh'),
+    keras.layers.Dense(10, activation='tanh')
+])
+
+models = [model_relu, model_linear,
+          model_sigmoid,model_tanh]
 ```
 
 **Link to work:**
 
-* 
+* https://github.com/schmelto/NewsApp/commit/087b74d13fa5288b79992ccfb6cea29097bcc00b
+https://github.com/schmelto/machine-learning/commit/15abacab04630dd2ae377e55046869cd72205b61
 
