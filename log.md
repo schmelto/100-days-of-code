@@ -302,12 +302,12 @@ eval_loss, eval_accuracy = model.evaluate(test_images, test_vec_labels, verbose=
 print("Model accuracy: %.2f" % eval_accuracy)
 ```
 
-Further I added a readme to the NewsApp.
+Further I added a [README](https://github.com/schmelto/NewsApp/commit/d59b4b0f05f71e9bd9756145ca8808c990afd36f) to the NewsApp.
 
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning-with-python/commit/0e1a3763c94e539abccf9641d7f495d832c080f2
-* https://github.com/schmelto/NewsApp/blob/master/README.md
+* https://github.com/schmelto/NewsApp/blob/master/README.md | https://github.com/schmelto/NewsApp/commit/d59b4b0f05f71e9bd9756145ca8808c990afd36f
 
 ### Day 019: Januar 02, 2021 (README)
 
@@ -317,7 +317,7 @@ I've updated the [README](https://github.com/schmelto/NewsApp#readme) of the [Ne
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/schmelto/NewsApp?style=for-the-badge)
 
-Further I made some smal changes in the [machine learning](https://github.com/schmelto/machine-learning) repo.
+Further I made some small changes in the [machine learning](https://github.com/schmelto/machine-learning) repo.
 
 
 ```python
