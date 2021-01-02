@@ -308,3 +308,23 @@ Further I added a readme to the NewsApp.
 
 * https://github.com/schmelto/machine-learning-with-python/commit/0e1a3763c94e539abccf9641d7f495d832c080f2
 * https://github.com/schmelto/NewsApp/blob/master/README.md
+
+### Day 019: Januar 02, 2021 (README)
+
+**Today's Progress**:
+
+I've updated the [README](https://github.com/schmelto/NewsApp#readme) of the [NewsApp](https://github.com/schmelto/NewsApp) and made some cool badges:
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/schmelto/NewsApp?style=for-the-badge)
+
+Further I made some smal changes in the [machine learning](https://github.com/schmelto/machine-learning) repo.
+
+
+```python
+
+```
+
+**Link to work:**
+
+* 
+
