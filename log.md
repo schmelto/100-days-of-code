@@ -262,3 +262,110 @@ I created a little model for prediction the MNIST-Dataset.
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning-with-python/commit/76ea931acc90d55566214aa961e9f8792e5f695d
+
+### Day 018: Januar 01, 2021 (Fashion MNIST)
+
+**Today's Progress**:
+
+I tried on myself to predict the fashion MNIST dataset.
+
+```python
+import tensorflow as tf
+from tensorflow import keras
+import numpy as np
+import matplotlib.pyplot as plt
+
+data = keras.datasets.fashion_mnist
+(train_images, train_labels), (test_images, test_labels) = data.load_data()
+
+train_images = train_images / 255.0
+test_images = test_images / 255.0
+
+total_classes = 10
+train_vec_labels = keras.utils.to_categorical(train_labels, total_classes)
+test_vec_labels = keras.utils.to_categorical(test_labels, total_classes)
+
+model = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='sigmoid'), 
+    keras.layers.Dense(10, activation='sigmoid')
+])
+
+model.compile(
+    optimizer='sgd',
+    loss='mean_squared_error',
+    metrics=['accuracy'])
+    
+model.fit(train_images, train_vec_labels, epochs=50, verbose=True)
+
+eval_loss, eval_accuracy = model.evaluate(test_images, test_vec_labels, verbose=False)
+print("Model accuracy: %.2f" % eval_accuracy)
+```
+
+Further I added a [README](https://github.com/schmelto/NewsApp/commit/d59b4b0f05f71e9bd9756145ca8808c990afd36f) to the NewsApp.
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning-with-python/commit/0e1a3763c94e539abccf9641d7f495d832c080f2
+* https://github.com/schmelto/NewsApp/blob/master/README.md | https://github.com/schmelto/NewsApp/commit/d59b4b0f05f71e9bd9756145ca8808c990afd36f
+
+### Day 019: Januar 02, 2021 (README)
+
+**Today's Progress**:
+
+I've updated the [README](https://github.com/schmelto/NewsApp#readme) of the [NewsApp](https://github.com/schmelto/NewsApp) and made some cool badges:
+
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/schmelto/NewsApp?style=for-the-badge)
+
+Further I made some small changes in the [machine learning](https://github.com/schmelto/machine-learning) repo. Also I added an introduction to Numpy and evaluated activation functions of the newtworks.
+
+
+```python
+model_relu = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='relu'),
+    keras.layers.Dense(10, activation='sigmoid')
+])
+
+model_linear = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='linear'),
+    keras.layers.Dense(10, activation='linear')
+])
+
+model_sigmoid = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='sigmoid'),
+    keras.layers.Dense(10, activation='sigmoid')
+])
+
+model_tanh = keras.Sequential([
+    keras.layers.Flatten(input_shape=(28, 28)),
+    keras.layers.Dense(128, activation='tanh'),
+    keras.layers.Dense(10, activation='tanh')
+])
+
+models = [model_relu, model_linear,
+          model_sigmoid,model_tanh]
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/087b74d13fa5288b79992ccfb6cea29097bcc00b
+* https://github.com/schmelto/machine-learning/commit/15abacab04630dd2ae377e55046869cd72205b61
+
+
+### Day 020: Januar 03, 2021 (Numpy)
+
+**Today's Progress**:
+
+Finished the Numpy introduction ([here](https://github.com/schmelto/machine-learning/blob/main/Deeplearning/introduction_to_numpy.ipynb)) and have the idea for the #100daysofcode challenge to build an app that recognize handwriting via camera. Maybe give it a try :D ([here](https://github.com/schmelto/text-recognition))
+
+![text-recognition](./img/2021-01-03-text-recognition.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/c689089b36552d9fc560a13d38b8dbd7aedc2bbc
+
+
+
