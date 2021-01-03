@@ -359,7 +359,9 @@ models = [model_relu, model_linear,
 
 **Today's Progress**:
 
-Finished the Numpy introduction ([here](https://github.com/schmelto/machine-learning/blob/main/Deeplearning/introduction_to_numpy.ipynb)) and have the idea for the #100daysofcode challenge to build an app that recognize handwriting via camera. Maybe give it a try :D
+Finished the Numpy introduction ([here](https://github.com/schmelto/machine-learning/blob/main/Deeplearning/introduction_to_numpy.ipynb)) and have the idea for the #100daysofcode challenge to build an app that recognize handwriting via camera. Maybe give it a try :D ([here](https://github.com/schmelto/text-recognition))
+
+![text-recognition](./img/2021-01-03-text-recognition.jpg)
 
 **Link to work:**
 
