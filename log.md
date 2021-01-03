@@ -354,3 +354,16 @@ models = [model_relu, model_linear,
 * https://github.com/schmelto/NewsApp/commit/087b74d13fa5288b79992ccfb6cea29097bcc00b
 * https://github.com/schmelto/machine-learning/commit/15abacab04630dd2ae377e55046869cd72205b61
 
+
+### Day 020: Januar 03, 2021 (Numpy)
+
+**Today's Progress**:
+
+Finished the Numpy introduction ([here](https://github.com/schmelto/machine-learning/blob/main/Deeplearning/introduction_to_numpy.ipynb)) and have the idea for the #100daysofcode challange to build an app that recognize handwriting via camera. Maybe give it a try :D
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/c689089b36552d9fc560a13d38b8dbd7aedc2bbc
+
+
+
