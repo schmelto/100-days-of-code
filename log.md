@@ -367,5 +367,16 @@ Finished the Numpy introduction ([here](https://github.com/schmelto/machine-lear
 
 * https://github.com/schmelto/machine-learning/commit/c689089b36552d9fc560a13d38b8dbd7aedc2bbc
 
+### Day 021: Januar 04, 2021 (Maploitlib)
+
+**Today's Progress**:
+
+I've created an introduction to Maploitlib and plotted some plots :D
+
+![Maploitlib](./img/2021-01-04 192111-Maploitlib.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/c8cbc0c68f01c2c2721894fff7bd5980c122529c
 
 
