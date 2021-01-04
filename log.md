@@ -373,7 +373,7 @@ Finished the Numpy introduction ([here](https://github.com/schmelto/machine-lear
 
 I've created an introduction to Maploitlib and plotted some plots :D
 
-![Maploitlib](./img/2021-01-04 192111-Maploitlib.jpg)
+![Maploitlib](./img/2021-01-04-Maploitlib.jpg)
 
 **Link to work:**
 
