@@ -379,4 +379,16 @@ I've created an introduction to Maploitlib and plotted some plots :D
 
 * https://github.com/schmelto/machine-learning/commit/c8cbc0c68f01c2c2721894fff7bd5980c122529c
 
+### Day 022: Januar 05, 2021 (Keras / Tensorflow / MNIST)
+
+**Today's Progress**:
+
+I take a deeper look at Keras, Tensorflow and analyzed the MNIST dataset.
+
+![MNSIT](./img/2021-01-05-mnist.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/dbc504d25c7c2861d0d73dd0cd4f03ab55345dd2
+
 
