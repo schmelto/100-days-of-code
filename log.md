@@ -391,4 +391,15 @@ I take a deeper look at Keras, Tensorflow and analyzed the MNIST dataset.
 
 * https://github.com/schmelto/machine-learning/commit/dbc504d25c7c2861d0d73dd0cd4f03ab55345dd2
 
+### Day 023: Januar 05, 2021 (Complex layer structure)
+
+**Today's Progress**:
+
+I take a look at complex layer structure.
+
+![layer](./img/2021-01-06-layer.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/9f543cb5630bb46a7fe7f908265e636196d79253
 
