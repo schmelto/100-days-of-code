@@ -403,3 +403,31 @@ I take a look at complex layer structure.
 
 * https://github.com/schmelto/machine-learning/commit/9f543cb5630bb46a7fe7f908265e636196d79253
 
+### Day 024: Januar 07, 2021 (Loss Functions)
+
+**Today's Progress**:
+
+I optimized the models with loss functions
+
+```python
+optimizer = 'sgd'
+
+model_mse.compile(
+    optimizer=optimizer,
+    loss='mean_squared_error',
+    metrics=['accuracy']
+)
+model_cce.compile(
+    optimizer=optimizer,
+    loss='categorical_crossentropy',
+    metrics=['accuracy']
+)
+model_scce.compile(
+    optimizer=optimizer,
+    loss='sparse_categorical_crossentropy',
+    metrics=['accuracy']
+)
+```
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/e8db352a8ce8817df070a6927f737441c4d3b21c
