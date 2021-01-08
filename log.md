@@ -431,3 +431,21 @@ model_scce.compile(
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning/commit/e8db352a8ce8817df070a6927f737441c4d3b21c
+
+### Day 025: Januar 08, 2021 (Optimizer and Hyperparameters)
+
+**Today's Progress**:
+
+Today I've taked a look on how I can optimize my models wit Optimizer and Hyperparameters.
+
+```python
+model.compile(
+    optimizer = tf.keras.optimizers.Adam(lr=0.001),
+    loss='categorical_crossentropy',
+    metrics=['accuracy']
+)
+```
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/6af1353a3166fb83552b0e3a35a5a93159c9fa16
+* https://github.com/schmelto/machine-learning/commit/210d38408c687e533ef50fc5603e7bd2d811acc9
