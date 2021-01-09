@@ -450,7 +450,7 @@ model.compile(
 * https://github.com/schmelto/machine-learning/commit/6af1353a3166fb83552b0e3a35a5a93159c9fa16
 * https://github.com/schmelto/machine-learning/commit/210d38408c687e533ef50fc5603e7bd2d811acc9
 
-### Day 025: Januar 08, 2021 (Hyperparameters Part II)
+### Day 026: Januar 09, 2021 (Hyperparameters Part II)
 
 **Today's Progress**:
 
