@@ -464,7 +464,7 @@ Today I've taked a look on how to optimize hyperparameters.
 
 **Today's Progress**:
 
-Wonder if dropit also would work in companies :) But today I've learned it work for neuronal networks and thats kind of satisfying.
+Wonder if dropout also would work in companies :) But today I've learned it work for neuronal networks and that's kind of satisfying.
 
 ![Dropout](./img/2021-01-10-dropout.jpg)
 
