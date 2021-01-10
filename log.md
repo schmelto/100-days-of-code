@@ -459,3 +459,15 @@ Today I've taked a look on how to optimize hyperparameters.
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning/commit/f20c77b85b0ae24c460c104d6674228b61cfc74f
+
+### Day 027: Januar 10, 2021 (Dropout)
+
+**Today's Progress**:
+
+Wonder if dropit also would work in companies :) But today I've learned it work for neuronal networks and thats kind of satisfying.
+
+![Dropout](./img/2021-01-10-dropout.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/dbf57462612053c2417451ce8e35b03683583c8a
