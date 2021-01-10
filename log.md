@@ -391,4 +391,83 @@ I take a deeper look at Keras, Tensorflow and analyzed the MNIST dataset.
 
 * https://github.com/schmelto/machine-learning/commit/dbc504d25c7c2861d0d73dd0cd4f03ab55345dd2
 
+### Day 023: Januar 06, 2021 (Complex layer structure)
 
+**Today's Progress**:
+
+I take a look at complex layer structure.
+
+![layer](./img/2021-01-06-layer.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/9f543cb5630bb46a7fe7f908265e636196d79253
+
+### Day 024: Januar 07, 2021 (Loss Functions)
+
+**Today's Progress**:
+
+I optimized the models with loss functions
+
+```python
+optimizer = 'sgd'
+
+model_mse.compile(
+    optimizer=optimizer,
+    loss='mean_squared_error',
+    metrics=['accuracy']
+)
+model_cce.compile(
+    optimizer=optimizer,
+    loss='categorical_crossentropy',
+    metrics=['accuracy']
+)
+model_scce.compile(
+    optimizer=optimizer,
+    loss='sparse_categorical_crossentropy',
+    metrics=['accuracy']
+)
+```
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/e8db352a8ce8817df070a6927f737441c4d3b21c
+
+### Day 025: Januar 08, 2021 (Optimizer and Hyperparameters)
+
+**Today's Progress**:
+
+Today I've taked a look on how I can optimize my models wit Optimizer and Hyperparameters.
+
+```python
+model.compile(
+    optimizer = tf.keras.optimizers.Adam(lr=0.001),
+    loss='categorical_crossentropy',
+    metrics=['accuracy']
+)
+```
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/6af1353a3166fb83552b0e3a35a5a93159c9fa16
+* https://github.com/schmelto/machine-learning/commit/210d38408c687e533ef50fc5603e7bd2d811acc9
+
+### Day 026: Januar 09, 2021 (Hyperparameters Part II)
+
+**Today's Progress**:
+
+Today I've taked a look on how to optimize hyperparameters.
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/f20c77b85b0ae24c460c104d6674228b61cfc74f
+
+### Day 027: Januar 10, 2021 (Dropout)
+
+**Today's Progress**:
+
+Wonder if dropit also would work in companies :) But today I've learned it work for neuronal networks and thats kind of satisfying.
+
+![Dropout](./img/2021-01-10-dropout.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/dbf57462612053c2417451ce8e35b03683583c8a
