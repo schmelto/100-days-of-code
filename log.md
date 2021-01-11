@@ -471,3 +471,13 @@ Wonder if dropout also would work in companies :) But today I've learned it work
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning/commit/dbf57462612053c2417451ce8e35b03683583c8a
+
+### Day 028: Januar 11, 2021 (Data Argumentation)
+
+**Today's Progress**:
+
+Little bit Data Argumentation.
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/0c3f64b471271d2ff3b3b5382e91a428417f1111
