@@ -481,3 +481,13 @@ Little bit Data Argumentation.
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning/commit/0c3f64b471271d2ff3b3b5382e91a428417f1111
+
+### Day 029: Januar 12, 2021 (Some thinking + start app)
+
+**Today's Progress**:
+
+Today it was very hard to motivate myself for the #100daysofcode challange. But here I am. I want to start the app for taking pictures for the text recognizion.
+
+**Link to work:**
+
+* 
