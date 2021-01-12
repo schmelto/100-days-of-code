@@ -486,7 +486,7 @@ Little bit Data Argumentation.
 
 **Today's Progress**:
 
-Today it was very hard to motivate myself for the #100daysofcode challange. But here I am. I want to start the app for taking pictures for the text recognizion.
+Today it was very hard to motivate myself for the #100daysofcode challange. But here I am. I want to start the app for taking pictures for the text recognition.
 
 **Link to work:**
 
