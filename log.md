@@ -488,6 +488,42 @@ Little bit Data Argumentation.
 
 Today it was very hard to motivate myself for the #100daysofcode challange. But here I am. I want to start the app for taking pictures for the text recognition.
 
+```javascript
+import { Injectable } from '@angular/core';
+import { Plugins, CameraResultType, CameraSource } from '@capacitor/core';
+
+const { Camera } = Plugins;
+
+@Injectable({
+  providedIn: 'root'
+})
+export class PhotoService {
+
+  public photos: Photo[] = [];
+
+  constructor() { }
+
+  public async addNewToGallery() {
+
+    const capturedPhoto = await Camera.getPhoto({
+      resultType: CameraResultType.Uri, 
+      source: CameraSource.Camera, 
+      quality: 100 
+    });
+  
+    this.photos.unshift({
+      filepath: "soon...",
+      webviewPath: capturedPhoto.webPath
+    });
+  }
+}
+
+export interface Photo {
+  filepath: string;
+  webviewPath: string;
+}
+```
+
 **Link to work:**
 
-* 
+* https://github.com/schmelto/text-recognition/commit/cbb549d642db4f874be0e4af8ef25d825f22e226
