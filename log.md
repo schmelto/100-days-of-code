@@ -471,3 +471,72 @@ Wonder if dropout also would work in companies :) But today I've learned it work
 **Link to work:**
 
 * https://github.com/schmelto/machine-learning/commit/dbf57462612053c2417451ce8e35b03683583c8a
+
+### Day 028: Januar 11, 2021 (Data Argumentation)
+
+**Today's Progress**:
+
+Little bit Data Argumentation.
+
+**Link to work:**
+
+* https://github.com/schmelto/machine-learning/commit/0c3f64b471271d2ff3b3b5382e91a428417f1111
+
+### Day 029: Januar 12, 2021 (Some thinking + start app)
+
+**Today's Progress**:
+
+Today it was very hard to motivate myself for the #100daysofcode challange. But here I am. I want to start the app for taking pictures for the text recognition.
+
+```javascript
+import { Injectable } from '@angular/core';
+import { Plugins, CameraResultType, CameraSource } from '@capacitor/core';
+
+const { Camera } = Plugins;
+
+@Injectable({
+  providedIn: 'root'
+})
+export class PhotoService {
+
+  public photos: Photo[] = [];
+
+  constructor() { }
+
+  public async addNewToGallery() {
+
+    const capturedPhoto = await Camera.getPhoto({
+      resultType: CameraResultType.Uri, 
+      source: CameraSource.Camera, 
+      quality: 100 
+    });
+  
+    this.photos.unshift({
+      filepath: "soon...",
+      webviewPath: capturedPhoto.webPath
+    });
+  }
+}
+
+export interface Photo {
+  filepath: string;
+  webviewPath: string;
+}
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/commit/cbb549d642db4f874be0e4af8ef25d825f22e226
+
+### Day 030: Januar 13, 2021 (API)
+
+**Today's Progress**:
+
+Started to build a Python API. But worked not that great dont know why I cant read a file in the same direktory.
+
+![Fail](./img/2021-01-13-fail.jpg)
+
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/commit/084fa74f68a915147b07de48f9b3e4f250ae358b
