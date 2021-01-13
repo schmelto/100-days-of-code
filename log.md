@@ -527,3 +527,16 @@ export interface Photo {
 **Link to work:**
 
 * https://github.com/schmelto/text-recognition/commit/cbb549d642db4f874be0e4af8ef25d825f22e226
+
+### Day 030: Januar 13, 2021 (API)
+
+**Today's Progress**:
+
+Started to build a Python API. But worked not that great dont know why I cant read a file in the same direktory.
+
+![Fail](./img/2021-01-13-fail.jpg)
+
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/commit/084fa74f68a915147b07de48f9b3e4f250ae358b
