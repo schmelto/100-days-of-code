@@ -540,3 +540,38 @@ Started to build a Python API. But worked not that great dont know why I cant re
 **Link to work:**
 
 * https://github.com/schmelto/text-recognition/commit/084fa74f68a915147b07de48f9b3e4f250ae358b
+
+
+### Day 031: Januar 14, 2021 (API - Yes I've got it)
+
+**Today's Progress**:
+
+Ok I don't know why but if I pass the whole path to for the csv it worked in the API.
+
+```python
+data = pd.read_csv('C:/Users/tomsc/source/text-recognition/API/users.csv')  # read CSV
+```
+
+```json
+{
+    "data": {
+        "userId": {
+            "0": "a1b",
+            "1": "a2c",
+            "2": "b1b",
+            "3": "b2c"
+        },
+        "name": {
+            "0": "Joe",
+            "1": "Jenny",
+[...]
+}
+```
+
+So lets provide some example mehtods in the API that I can use for later purposes.
+
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/issues/4
+
