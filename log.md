@@ -579,7 +579,7 @@ So lets provide some example mehtods in the API that I can use for later purpose
 
 **Today's Progress**:
 
-So finally I can train the model on my local machine and return some paramters in the flask api.
+Finally I can train the model on my local machine and return some parameters in the flask API.
 
 For example gicing the model back in a get method:
 
