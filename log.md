@@ -575,3 +575,20 @@ So lets provide some example mehtods in the API that I can use for later purpose
 
 * https://github.com/schmelto/text-recognition/issues/4
 
+### Day 032: Januar 15, 2021 (API - first model)
+
+**Today's Progress**:
+
+So finally I can train the model on my local machine and return some paramters in the flask api.
+
+For example gicing the model back in a get method:
+
+```json
+{
+    "data": "{\"class_name\": \"Sequential\", \"config\": {\"name\": \"sequential\", \"layers\": [{\"class_name\": \"InputLayer\", \"config\": {\"batch_input_shape\": [null, 28, 28], \"dtype\": \"float32\", \"sparse\": false, \"ragged\": false, \"name\": \"flatten_input\"}}, {\"class_name\": \"Flatten\", \"config\": {\"name\": \"flatten\", \"trainable\": true, \"batch_input_shape\": [null, 28, 28], \"dtype\": \"float32\", \"data_format\": \"channels_last\"}}, {\"class_name\": \"Dense\", \"config\": {\"name\": \"dense\", \"trainable\": true, \"dtype\": \"float32\", \"units\": 128, \"activation\": \"sigmoid\", \"use_bias\": true, \"kernel_initializer\": {\"class_name\": \"GlorotUniform\", \"config\": {\"seed\": null}}, \"bias_initializer\": {\"class_name\": \"Zeros\", \"config\": {}}, \"kernel_regularizer\": null, \"bias_regularizer\": null, \"activity_regularizer\": null, \"kernel_constraint\": null, \"bias_constraint\": null}}, {\"class_name\": \"Dense\", \"config\": {\"name\": \"dense_1\", \"trainable\": true, \"dtype\": \"float32\", \"units\": 10, \"activation\": \"sigmoid\", \"use_bias\": true, \"kernel_initializer\": {\"class_name\": \"GlorotUniform\", \"config\": {\"seed\": null}}, \"bias_initializer\": {\"class_name\": \"Zeros\", \"config\": {}}, \"kernel_regularizer\": null, \"bias_regularizer\": null, \"activity_regularizer\": null, \"kernel_constraint\": null, \"bias_constraint\": null}}]}, \"keras_version\": \"2.4.0\", \"backend\": \"tensorflow\"}"
+}
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/pull/6
