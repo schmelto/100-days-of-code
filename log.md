@@ -592,3 +592,20 @@ For example gicing the model back in a get method:
 **Link to work:**
 
 * https://github.com/schmelto/text-recognition/pull/6
+
+### Day 033: Januar 16, 2021 (API call in app)
+
+**Today's Progress**:
+
+Today I started with calling the API in the Ionic App but I have to adjust the [CORS policy](https://github.com/schmelto/text-recognition/issues/9).
+
+```json
+Access to XMLHttpRequest at 'http://127.0.0.1:5000/model/model' from origin 'http://localhost:8100' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/issues/9
+* https://github.com/schmelto/text-recognition/commit/564a275a94e5ac2e2598fe3f6abea0c76a0f981d
+
+* 
