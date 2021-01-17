@@ -612,8 +612,9 @@ Access to XMLHttpRequest at 'http://127.0.0.1:5000/model/model' from origin 'htt
 
 **Today's Progress**:
 
-Updated the CORS Policy of my test API with `from flask_cors import CORS`. Now I can call the api from my ionic app.
+Updated the CORS Policy of my test API with `from flask_cors import CORS`. Now I can call the api from my ionic app. Also tried to add the POST API call.
 
 **Link to work:**
 
 * https://github.com/schmelto/text-recognition/pull/10
+* https://github.com/schmelto/text-recognition/tree/serviceapi
