@@ -608,4 +608,12 @@ Access to XMLHttpRequest at 'http://127.0.0.1:5000/model/model' from origin 'htt
 * https://github.com/schmelto/text-recognition/issues/9
 * https://github.com/schmelto/text-recognition/commit/564a275a94e5ac2e2598fe3f6abea0c76a0f981d
 
-* 
+### Day 034: Januar 17, 2021 (CORS Policy)
+
+**Today's Progress**:
+
+Updated the CORS Policy of my test API with `from flask_cors import CORS`. Now I can call the api from my ionic app.
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/pull/10
