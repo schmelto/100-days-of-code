@@ -618,3 +618,25 @@ Updated the CORS Policy of my test API with `from flask_cors import CORS`. Now I
 
 * https://github.com/schmelto/text-recognition/pull/10
 * https://github.com/schmelto/text-recognition/tree/serviceapi
+
+### Day 035: Januar 18, 2021 (Post API)
+
+**Today's Progress**:
+
+I'm not that far as I wanted to be but I finally get the POST Method to work in the python API and can call it rudimentary in the ionic app. Fine Tuning necessary!!
+```python
+@app.route('/model', methods=('POST',))
+def post():
+    filepath = request.args.get('filepath') #if key doesn't exist, returns None
+    webviewPath = request.args['webviewPath'] #if key doesn't exist, returns a 400, bad request error
+    
+    return jsonify(webviewPath), 200  # return data with 200 OK
+```
+```
+http://127.0.0.1:5000/model?filepath=test&webviewPath=test
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/commit/23f51bdfdd4123e079375b30805a6d51958d4b9c
+
