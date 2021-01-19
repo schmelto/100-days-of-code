@@ -540,3 +540,103 @@ Started to build a Python API. But worked not that great dont know why I cant re
 **Link to work:**
 
 * https://github.com/schmelto/text-recognition/commit/084fa74f68a915147b07de48f9b3e4f250ae358b
+
+
+### Day 031: Januar 14, 2021 (API - Yes I've got it)
+
+**Today's Progress**:
+
+Ok I don't know why but if I pass the whole path to for the csv it worked in the API.
+
+```python
+data = pd.read_csv('C:/Users/tomsc/source/text-recognition/API/users.csv')  # read CSV
+```
+
+```json
+{
+    "data": {
+        "userId": {
+            "0": "a1b",
+            "1": "a2c",
+            "2": "b1b",
+            "3": "b2c"
+        },
+        "name": {
+            "0": "Joe",
+            "1": "Jenny",
+[...]
+}
+```
+
+So lets provide some example mehtods in the API that I can use for later purposes.
+
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/issues/4
+
+### Day 032: Januar 15, 2021 (API - first model)
+
+**Today's Progress**:
+
+Finally I can train the model on my local machine and return some parameters in the flask API.
+
+For example gicing the model back in a get method:
+
+```json
+{
+    "data": "{\"class_name\": \"Sequential\", \"config\": {\"name\": \"sequential\", \"layers\": [{\"class_name\": \"InputLayer\", \"config\": {\"batch_input_shape\": [null, 28, 28], \"dtype\": \"float32\", \"sparse\": false, \"ragged\": false, \"name\": \"flatten_input\"}}, {\"class_name\": \"Flatten\", \"config\": {\"name\": \"flatten\", \"trainable\": true, \"batch_input_shape\": [null, 28, 28], \"dtype\": \"float32\", \"data_format\": \"channels_last\"}}, {\"class_name\": \"Dense\", \"config\": {\"name\": \"dense\", \"trainable\": true, \"dtype\": \"float32\", \"units\": 128, \"activation\": \"sigmoid\", \"use_bias\": true, \"kernel_initializer\": {\"class_name\": \"GlorotUniform\", \"config\": {\"seed\": null}}, \"bias_initializer\": {\"class_name\": \"Zeros\", \"config\": {}}, \"kernel_regularizer\": null, \"bias_regularizer\": null, \"activity_regularizer\": null, \"kernel_constraint\": null, \"bias_constraint\": null}}, {\"class_name\": \"Dense\", \"config\": {\"name\": \"dense_1\", \"trainable\": true, \"dtype\": \"float32\", \"units\": 10, \"activation\": \"sigmoid\", \"use_bias\": true, \"kernel_initializer\": {\"class_name\": \"GlorotUniform\", \"config\": {\"seed\": null}}, \"bias_initializer\": {\"class_name\": \"Zeros\", \"config\": {}}, \"kernel_regularizer\": null, \"bias_regularizer\": null, \"activity_regularizer\": null, \"kernel_constraint\": null, \"bias_constraint\": null}}]}, \"keras_version\": \"2.4.0\", \"backend\": \"tensorflow\"}"
+}
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/pull/6
+
+### Day 033: Januar 16, 2021 (API call in app)
+
+**Today's Progress**:
+
+Today I started with calling the API in the Ionic App but I have to adjust the [CORS policy](https://github.com/schmelto/text-recognition/issues/9).
+
+```json
+Access to XMLHttpRequest at 'http://127.0.0.1:5000/model/model' from origin 'http://localhost:8100' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/issues/9
+* https://github.com/schmelto/text-recognition/commit/564a275a94e5ac2e2598fe3f6abea0c76a0f981d
+
+### Day 034: Januar 17, 2021 (CORS Policy)
+
+**Today's Progress**:
+
+Updated the CORS Policy of my test API with `from flask_cors import CORS`. Now I can call the api from my ionic app. Also tried to add the POST API call.
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/pull/10
+* https://github.com/schmelto/text-recognition/tree/serviceapi
+
+### Day 035: Januar 18, 2021 (Post API)
+
+**Today's Progress**:
+
+I'm not that far as I wanted to be but I finally get the POST Method to work in the python API and can call it rudimentary in the ionic app. Fine Tuning necessary!!
+```python
+@app.route('/model', methods=('POST',))
+def post():
+    filepath = request.args.get('filepath') #if key doesn't exist, returns None
+    webviewPath = request.args['webviewPath'] #if key doesn't exist, returns a 400, bad request error
+    
+    return jsonify(webviewPath), 200  # return data with 200 OK
+```
+```
+http://127.0.0.1:5000/model?filepath=test&webviewPath=test
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/commit/23f51bdfdd4123e079375b30805a6d51958d4b9c
+
