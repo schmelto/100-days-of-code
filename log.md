@@ -640,3 +640,13 @@ http://127.0.0.1:5000/model?filepath=test&webviewPath=test
 
 * https://github.com/schmelto/text-recognition/commit/23f51bdfdd4123e079375b30805a6d51958d4b9c
 
+### Day 036: Januar 18, 2021 (Post API 2.0)
+
+**Today's Progress**:
+
+Got the API working from Postman and from the Ionic app and get some test return parameters. Now I have to look how I can download the img in my api and predict it with my model. But this is something for tomorrow.
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/commit/64779be892663eac3fb981f88943686edd66efe7
+
