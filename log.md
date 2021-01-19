@@ -646,6 +646,10 @@ http://127.0.0.1:5000/model?filepath=test&webviewPath=test
 
 Got the API working from Postman and from the Ionic app and get some test return parameters. Now I have to look how I can download the img in my api and predict it with my model. But this is something for tomorrow.
 
+Also I have the idea to make a labeling system into the app.
+
+![idea](./img/2021-01-19-idea.jpg)
+
 **Link to work:**
 
 * https://github.com/schmelto/text-recognition/commit/64779be892663eac3fb981f88943686edd66efe7
