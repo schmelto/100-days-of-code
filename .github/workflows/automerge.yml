@@ -1,9 +1,9 @@
-name: Auto Approve
+name: Merge ImgBot PRs
 
 on: pull_request
 
 jobs:
-  build:
+  merge:
     runs-on: ubuntu-latest
     steps:
     - name: Auto Approve
