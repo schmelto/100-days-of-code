@@ -658,7 +658,10 @@ Also I have the idea to make a labeling system into the app.
 
 **Today's Progress**:
 
-Today a little bit off topic but I added github workflows / github actions to my 100daysofcode repo to automatically merge the Pull requestst from the [ImgBot](https://github.com/ImgBotApp).
+Today a little bit off topic but I added github workflows / github actions to my 100daysofcode repo to automatically merge the Pull requests from the [ImgBot](https://github.com/ImgBotApp).
+
+
+![automerge](./img/2021-01-20-automerge.jpg)
 
 **Link to work:**
 
