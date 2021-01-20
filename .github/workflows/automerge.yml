@@ -1,35 +1,19 @@
-name: automerge
-on:
-  pull_request:
-    types:
-      - labeled
-      - unlabeled
-      - synchronize
-      - opened
-      - edited
-      - ready_for_review
-      - reopened
-      - unlocked
-  pull_request_review:
-    types:
-      - submitted
-  check_suite:
-    types:
-      - completed
-  status: {}
+name: Auto Approve
+
+on: pull_request
+
 jobs:
-  label:
+  build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/labeler@main
+    - name: Auto Approve
+      uses: hmarr/auto-approve-action@v2.0.0
+      if: github.actor == 'imgbot[bot]'
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
-  
-  automerge:
-    runs-on: ubuntu-latest
-    steps:
-      - name: automerge
-        uses: "pascalgn/automerge-action@v0.13.0"
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_LABELS: "automerge"
+        github-token: "${{ secrets.GITHUB_TOKEN }}"
+    - name: Merge
+      uses: squalrus/merge-bot@v0.2.0
+      if: github.actor == 'imgbot[bot]'
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        method: squash
