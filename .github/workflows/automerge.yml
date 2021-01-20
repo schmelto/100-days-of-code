@@ -14,5 +14,5 @@ jobs:
     - name: Merge
       uses: "pascalgn/automerge-action@v0.13.0"
       if: github.actor == 'imgbot[bot]'
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      env:
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
