@@ -18,6 +18,13 @@ on:
       - completed
   status: {}
 jobs:
+  label:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/labeler@main
+      with:
+        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+  
   automerge:
     runs-on: ubuntu-latest
     steps:
