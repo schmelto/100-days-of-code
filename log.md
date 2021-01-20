@@ -640,7 +640,7 @@ http://127.0.0.1:5000/model?filepath=test&webviewPath=test
 
 * https://github.com/schmelto/text-recognition/commit/23f51bdfdd4123e079375b30805a6d51958d4b9c
 
-### Day 036: Januar 18, 2021 (Post API 2.0)
+### Day 036: Januar 19, 2021 (Post API 2.0)
 
 **Today's Progress**:
 
@@ -654,3 +654,12 @@ Also I have the idea to make a labeling system into the app.
 
 * https://github.com/schmelto/text-recognition/commit/64779be892663eac3fb981f88943686edd66efe7
 
+### Day 037: Januar 20, 2021 (Github Actions)
+
+**Today's Progress**:
+
+Today a little bit off topic but I added github workflows / github actions to my 100daysofcode repo to automatically merge the Pull requestst from the [ImgBot](https://github.com/ImgBotApp).
+
+**Link to work:**
+
+* https://github.com/schmelto/100-days-of-code/commit/1cbe71cb053b7e89e6af7eb73f983f706d742ebc
