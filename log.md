@@ -660,9 +660,18 @@ Also I have the idea to make a labeling system into the app.
 
 Today a little bit off topic but I added github workflows / github actions to my 100daysofcode repo to automatically merge the Pull requests from the [ImgBot](https://github.com/ImgBotApp).
 
-
 ![automerge](./img/2021-01-20-automerge.jpg)
 
 **Link to work:**
 
 * https://github.com/schmelto/100-days-of-code/commit/1cbe71cb053b7e89e6af7eb73f983f706d742ebc
+
+### Day 038: Januar 21, 2021 (Image?!)
+
+**Today's Progress**:
+
+Got a little bit stuck with all the python imports image processing and load into a dataset...
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/commit/6d73c995e26247f9797dd4b1fa39691accf120a0
