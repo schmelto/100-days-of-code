@@ -682,7 +682,7 @@ Got a little bit stuck with all the python imports image processing and load int
 
 Cause I currently sorting my old pictures I worte me a little python script that allows me to rename all my pictures.
 
-````python
+```python
 import os 
 
 url = "url" + "/"
