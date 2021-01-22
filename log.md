@@ -675,3 +675,37 @@ Got a little bit stuck with all the python imports image processing and load int
 **Link to work:**
 
 * https://github.com/schmelto/text-recognition/commit/6d73c995e26247f9797dd4b1fa39691accf120a0
+
+### Day 039: Januar 22, 2021 (Python Scripts)
+
+**Today's Progress**:
+
+Cause I currently sorting my old pictures I worte me a little python script that allows me to rename all my pictures.
+
+````python
+import os 
+
+url = "url" + "/"
+extensions = ('.jpg', '.JPG')
+
+# Function to rename multiple files 
+def main(): 
+    for count, file in enumerate(os.listdir(url)): 
+        if file.endswith(extensions):
+            dst = "Filename" + str(count) + ".jpg"
+            src = url + file 
+            dst = url + dst
+            
+            # rename() function will rename all the files 
+            os.rename(src, dst) 
+
+# Driver Code 
+if __name__ == '__main__': 
+    
+    # Calling main() function 
+    main() 
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/python-scripts/commit/e580013bc9fbf679bc8c698e123e09e77e6fc48a
