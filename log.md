@@ -709,3 +709,13 @@ if __name__ == '__main__':
 **Link to work:**
 
 * https://github.com/schmelto/python-scripts/commit/e580013bc9fbf679bc8c698e123e09e77e6fc48a
+
+### Day 040: Januar 23, 2021 (Python Script Update)
+
+**Today's Progress**:
+
+Little bit updated my python rename script. Why does Python have no number increment?!
+
+**Link to work:**
+
+* https://github.com/schmelto/python-scripts/commit/96991a03bdf7352322ba62105bcaa614f2851f96
