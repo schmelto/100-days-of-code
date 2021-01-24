@@ -719,3 +719,27 @@ Little bit updated my python rename script. Why does Python have no number incre
 **Link to work:**
 
 * https://github.com/schmelto/python-scripts/commit/96991a03bdf7352322ba62105bcaa614f2851f96
+
+### Day 041: Januar 24, 2021 (Python Script Update 2.0)
+
+**Today's Progress**:
+
+Updated my rename script to use the main folder and rename pictures in subfolders.
+
+````python
+# This program rename all images to "foldername - number"
+# structure of the folders like
+#
+# - main photo folder
+#   - 2021 - pictures 1
+#   - 2021 - pictures 2
+#
+# this will rename photo 1 in folder "2021 - pictures 1" to "2021 - pictures 1 - 1" and so on
+# currently only .jpg and .png files are supported
+# subfolders within the picture folders are not supported
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/python-scripts/commit/7c2183945c057779f65e27bcb5fcbb30c273b841
+
