@@ -726,7 +726,7 @@ Little bit updated my python rename script. Why does Python have no number incre
 
 Updated my rename script to use the main folder and rename pictures in subfolders.
 
-````python
+```python
 # This program rename all images to "foldername - number"
 # structure of the folders like
 #
