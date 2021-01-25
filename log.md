@@ -743,3 +743,13 @@ Updated my rename script to use the main folder and rename pictures in subfolder
 
 * https://github.com/schmelto/python-scripts/commit/7c2183945c057779f65e27bcb5fcbb30c273b841
 
+### Day 042: Januar 25, 2021 (Back to text)
+
+**Today's Progress**:
+
+I am not sure what I really did today, progress very little but I tried to get an image from my local computer to be predicted with my keras model. Didn't worked as I planed. But hey today is day 42 and you know 42 is the answer to everything.
+
+**Link to work:**
+
+* https://github.com/schmelto/text-recognition/commit/73977dd7db7aee9d6c889246f235f4c627f544cc
+
