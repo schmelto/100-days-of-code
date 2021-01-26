@@ -753,3 +753,12 @@ I am not sure what I really did today, progress very little but I tried to get a
 
 * https://github.com/schmelto/text-recognition/commit/73977dd7db7aee9d6c889246f235f4c627f544cc
 
+### Day 043: Januar 25, 2021 (Back to text wait what)
+
+**Today's Progress**:
+
+Programmed a little bit but nothing really done to commit today... Don't know why it will not work. 
+
+**Link to work:**
+
+* n/a
