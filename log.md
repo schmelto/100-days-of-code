@@ -753,7 +753,7 @@ I am not sure what I really did today, progress very little but I tried to get a
 
 * https://github.com/schmelto/text-recognition/commit/73977dd7db7aee9d6c889246f235f4c627f544cc
 
-### Day 043: Januar 25, 2021 (Back to text wait what)
+### Day 043: Januar 26, 2021 (Back to text wait what)
 
 **Today's Progress**:
 
@@ -762,3 +762,13 @@ Programmed a little bit but nothing really done to commit today... Don't know wh
 **Link to work:**
 
 * n/a
+
+### Day 043: Januar 27, 2021 (Open Source)
+
+**Today's Progress**:
+
+Cause I watched yesterdays livestream with [@EddieJaoude](https://github.com/eddiejaoude) I contributed today to open source.
+
+**Link to work:**
+
+* https://github.com/EddieJaoudeCommunity/EddieBot/pull/431
