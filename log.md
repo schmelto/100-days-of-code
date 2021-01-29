@@ -772,3 +772,34 @@ Cause I watched yesterdays livestream with [@EddieJaoude](https://github.com/edd
 **Link to work:**
 
 * https://github.com/EddieJaoudeCommunity/EddieBot/pull/431
+
+### Day 045: Januar 28, 2021 (Battlesnake)
+
+**Today's Progress**:
+
+Today I started building a #BattleSnake and made it run locally on my machine with ngrok.
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python
+
+### Day 046: Januar 29, 2021 (Snake Object)
+
+**Today's Progress**:
+
+Created snake objects and analyzed the battle api.
+
+```python
+class Snake():
+    def __init__(self, snake):
+        self.id = snake['id'] 
+        self.name = snake['name']
+        self.health = snake['health']
+        self.body = snake['body']
+        self.head = snake['head']
+        self.length = snake['length']
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/73eeba647abc2e0b3ad16f63f243b57930375cbe
