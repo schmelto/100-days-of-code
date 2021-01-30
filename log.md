@@ -803,3 +803,15 @@ class Snake():
 **Link to work:**
 
 * https://github.com/schmelto/battlesnake-python/commit/73eeba647abc2e0b3ad16f63f243b57930375cbe
+
+### Day 047: Januar 30, 2021 (more Battlesnake)
+
+**Today's Progress**:
+
+Some more Battlesnake.
+
+![Battlesnake](./img/2021-01-30-battlesnake.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/06278debc47cb376d619cc6e69a95d19be06235b
