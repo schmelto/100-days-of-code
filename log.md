@@ -816,7 +816,7 @@ Some more Battlesnake.
 
 * https://github.com/schmelto/battlesnake-python/commit/06278debc47cb376d619cc6e69a95d19be06235b
 
-### Day 048: Januar 30, 2021 (and some more Battlesnake)
+### Day 048: Januar 31, 2021 (and some more Battlesnake)
 
 **Today's Progress**:
 
@@ -827,3 +827,13 @@ Get the directions right for my snake and added a wall collision detection.
 **Link to work:**
 
 * https://github.com/schmelto/battlesnake-python/commit/77ef258b85a8401c367db01e813c6da571db201b
+
+### Day 049: Februar 2, 2021 (some cleaning)
+
+**Today's Progress**:
+
+Some cleaning and styling of my repos.
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/16ec29c982c1dda1dc278a64dd30386ec0357192
