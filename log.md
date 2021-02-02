@@ -842,8 +842,9 @@ Some cleaning and styling of my repos.
 
 **Today's Progress**:
 
-Contributed to [EddieHubCommunity](https://github.com/EddieHubCommunity) 
+Contributed to [EddieHubCommunity](https://github.com/EddieHubCommunity) and make some adjustments to my battlesnake
 
 **Link to work:**
 
 * https://github.com/EddieHubCommunity/support/pull/847
+* https://github.com/schmelto/battlesnake-python/commit/799b8f30982fd43f67df6827e3b2a1563627ec1d
