@@ -828,7 +828,7 @@ Get the directions right for my snake and added a wall collision detection.
 
 * https://github.com/schmelto/battlesnake-python/commit/77ef258b85a8401c367db01e813c6da571db201b
 
-### Day 049: Februar 2, 2021 (some cleaning)
+### Day 049: Februar 1, 2021 (some cleaning)
 
 **Today's Progress**:
 
@@ -837,3 +837,13 @@ Some cleaning and styling of my repos.
 **Link to work:**
 
 * https://github.com/schmelto/NewsApp/commit/16ec29c982c1dda1dc278a64dd30386ec0357192
+
+### Day 050: Februar 2, 2021 (Open-source)
+
+**Today's Progress**:
+
+Contributed to [EddieHubCommunity](https://github.com/EddieHubCommunity) 
+
+**Link to work:**
+
+* https://github.com/EddieHubCommunity/support/pull/847
