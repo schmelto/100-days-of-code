@@ -848,3 +848,15 @@ Contributed to [EddieHubCommunity](https://github.com/EddieHubCommunity) and mak
 
 * https://github.com/EddieHubCommunity/support/pull/847
 * https://github.com/schmelto/battlesnake-python/commit/799b8f30982fd43f67df6827e3b2a1563627ec1d
+
+### Day 051: Februar 3, 2021 (Open-source)
+
+**Today's Progress**:
+
+Made a lot of contributions and got my first PR merged in the NewsApp
+
+**Link to work:**
+
+* https://github.com/EddieHubCommunity/support/pull/852
+* https://github.com/EddieHubCommunity/gh-action-community/pull/62
+* https://github.com/schmelto/NewsApp/pull/34
