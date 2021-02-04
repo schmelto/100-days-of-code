@@ -860,3 +860,33 @@ Made a lot of contributions and got my first PR merged in the NewsApp
 * https://github.com/EddieHubCommunity/support/pull/852
 * https://github.com/EddieHubCommunity/gh-action-community/pull/62
 * https://github.com/schmelto/NewsApp/pull/34
+
+### Day 052: Februar 4, 2021 (Selfcollition)
+
+**Today's Progress**:
+
+Made a self collition detection for my battlesnake.
+
+```python
+def checkForOwnBody(self, data, directions, mySnake):
+
+  snake_head = mySnake.head
+  snake_body = mySnake.body
+
+  for pointInBody in snake_body:
+
+      if snake_head["x"] == pointInBody["x"] - 1 and snake_head["y"] == pointInBody["y"]:
+          directions.right = 0
+      if snake_head["x"] == pointInBody["x"] + 1 and snake_head["y"] == pointInBody["y"]:
+          directions.left = 0
+      if snake_head["y"] == pointInBody["y"] - 1 and snake_head["x"] == pointInBody["x"]:
+          directions.up = 0
+      if snake_head["y"] == pointInBody["y"] + 1 and snake_head["x"] == pointInBody["x"]:
+          directions.down = 0
+
+  return directions
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/09471b863c20c6e9eaac0fee2d8535452ee8bae8
