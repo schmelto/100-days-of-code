@@ -890,3 +890,13 @@ def checkForOwnBody(self, data, directions, mySnake):
 **Link to work:**
 
 * https://github.com/schmelto/battlesnake-python/commit/09471b863c20c6e9eaac0fee2d8535452ee8bae8
+
+### Day 053: Februar 5, 2021 (Food)
+
+**Today's Progress**:
+
+Gave some food to my battlesnake (not working right now...) poor battlesnake.
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/63cd8938b905ff61092937449a5f276f529008d7
