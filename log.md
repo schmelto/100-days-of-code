@@ -900,3 +900,13 @@ Gave some food to my battlesnake (not working right now...) poor battlesnake.
 **Link to work:**
 
 * https://github.com/schmelto/battlesnake-python/commit/63cd8938b905ff61092937449a5f276f529008d7
+
+### Day 054: Februar 6, 2021 (adjustments)
+
+**Today's Progress**:
+
+Small adjustments.
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/b6e41f91eb8d5c71e9d6c1029a7a5d21bce8eb01
