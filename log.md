@@ -926,7 +926,7 @@ Some Donuts aka food for my battlesnake.
 
 **Today's Progress**:
 
-Started to boúild a own porfolio
+Started to build a portfolio 
 
 **Link to work:**
 
