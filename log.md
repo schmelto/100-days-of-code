@@ -911,7 +911,7 @@ Small adjustments.
 
 * https://github.com/schmelto/battlesnake-python/commit/b6e41f91eb8d5c71e9d6c1029a7a5d21bce8eb01
 
-### Day 055: Februar 67 2021 (finally got some food)
+### Day 055: Februar 7, 2021 (finally got some food)
 
 **Today's Progress**:
 
@@ -920,3 +920,14 @@ Some Donuts aka food for my battlesnake.
 **Link to work:**
 
 * https://github.com/schmelto/battlesnake-python/commit/359a9ca4c9a32fa98c9ee319932cb8440c6253c6
+
+
+### Day 056: Februar 8, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Started to boúild a own porfolio
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/37b0915585ba1817f52f83218805fe6bff5476ab
