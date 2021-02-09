@@ -931,3 +931,16 @@ Started to build a portfolio
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/37b0915585ba1817f52f83218805fe6bff5476ab
+
+### Day 057: Februar 9, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Updated my portfolio website wiht a text carousel.
+
+![portfolio](./img/2021-02-09-portfolio.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/fb196d212c821d69824cea2550f11880d3362fc6
+
