@@ -816,7 +816,7 @@ Some more Battlesnake.
 
 * https://github.com/schmelto/battlesnake-python/commit/06278debc47cb376d619cc6e69a95d19be06235b
 
-### Day 048: Januar 30, 2021 (and some more Battlesnake)
+### Day 048: Januar 31, 2021 (and some more Battlesnake)
 
 **Today's Progress**:
 
@@ -827,3 +827,107 @@ Get the directions right for my snake and added a wall collision detection.
 **Link to work:**
 
 * https://github.com/schmelto/battlesnake-python/commit/77ef258b85a8401c367db01e813c6da571db201b
+
+### Day 049: Februar 1, 2021 (some cleaning)
+
+**Today's Progress**:
+
+Some cleaning and styling of my repos.
+
+**Link to work:**
+
+* https://github.com/schmelto/NewsApp/commit/16ec29c982c1dda1dc278a64dd30386ec0357192
+
+### Day 050: Februar 2, 2021 (Open-source)
+
+**Today's Progress**:
+
+Contributed to [EddieHubCommunity](https://github.com/EddieHubCommunity) and make some adjustments to my battlesnake
+
+**Link to work:**
+
+* https://github.com/EddieHubCommunity/support/pull/847
+* https://github.com/schmelto/battlesnake-python/commit/799b8f30982fd43f67df6827e3b2a1563627ec1d
+
+### Day 051: Februar 3, 2021 (Open-source)
+
+**Today's Progress**:
+
+Made a lot of contributions and got my first PR merged in the NewsApp
+
+**Link to work:**
+
+* https://github.com/EddieHubCommunity/support/pull/852
+* https://github.com/EddieHubCommunity/gh-action-community/pull/62
+* https://github.com/schmelto/NewsApp/pull/34
+
+### Day 052: Februar 4, 2021 (Selfcollition)
+
+**Today's Progress**:
+
+Made a self collition detection for my battlesnake.
+
+```python
+def checkForOwnBody(self, data, directions, mySnake):
+
+  snake_head = mySnake.head
+  snake_body = mySnake.body
+
+  for pointInBody in snake_body:
+
+      if snake_head["x"] == pointInBody["x"] - 1 and snake_head["y"] == pointInBody["y"]:
+          directions.right = 0
+      if snake_head["x"] == pointInBody["x"] + 1 and snake_head["y"] == pointInBody["y"]:
+          directions.left = 0
+      if snake_head["y"] == pointInBody["y"] - 1 and snake_head["x"] == pointInBody["x"]:
+          directions.up = 0
+      if snake_head["y"] == pointInBody["y"] + 1 and snake_head["x"] == pointInBody["x"]:
+          directions.down = 0
+
+  return directions
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/09471b863c20c6e9eaac0fee2d8535452ee8bae8
+
+### Day 053: Februar 5, 2021 (Food)
+
+**Today's Progress**:
+
+Gave some food to my battlesnake (not working right now...) poor battlesnake.
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/63cd8938b905ff61092937449a5f276f529008d7
+
+### Day 054: Februar 6, 2021 (adjustments)
+
+**Today's Progress**:
+
+Small adjustments.
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/b6e41f91eb8d5c71e9d6c1029a7a5d21bce8eb01
+
+### Day 055: Februar 7, 2021 (finally got some food)
+
+**Today's Progress**:
+
+Some Donuts aka food for my battlesnake.
+
+**Link to work:**
+
+* https://github.com/schmelto/battlesnake-python/commit/359a9ca4c9a32fa98c9ee319932cb8440c6253c6
+
+
+### Day 056: Februar 8, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Started to build a portfolio 
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/37b0915585ba1817f52f83218805fe6bff5476ab
