@@ -944,3 +944,13 @@ Updated my portfolio website wiht a text carousel.
 
 * https://github.com/schmelto/portfolio/commit/fb196d212c821d69824cea2550f11880d3362fc6
 
+### Day 058: Februar 10, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Updated my portfolio website.
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/9c1f7610815fe2eb486cdaaf7804ea9cf2157bd4
+
