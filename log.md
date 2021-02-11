@@ -939,7 +939,7 @@ Started to build a portfolio
 Updated my portfolio website wiht a text carousel.
 
 ![portfolio](./img/2021-02-09-portfolio.jpg)
-![explanationn](./img/2021-02-11-rotate.jpg)
+![explanation](./img/2021-02-11-rotate.jpg)
 
 **Link to work:**
 
