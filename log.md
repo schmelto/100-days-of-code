@@ -939,8 +939,30 @@ Started to build a portfolio
 Updated my portfolio website wiht a text carousel.
 
 ![portfolio](./img/2021-02-09-portfolio.jpg)
+![explanationn](./img/2021-02-11-rotate.jpg)
 
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/fb196d212c821d69824cea2550f11880d3362fc6
 
+### Day 058: Februar 10, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Updated my portfolio website.
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/9c1f7610815fe2eb486cdaaf7804ea9cf2157bd4
+
+### Day 059: Februar 11, 2021 (Portfolio)
+
+**Today's Progress**:
+
+MAde some typewrting text and add some content.
+
+![portfolio](./img/2021-02-11-portfolio.gif)
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/f092fecea781cae1aff6ac1f013a94c59af869c7
