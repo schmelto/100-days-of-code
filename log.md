@@ -959,7 +959,7 @@ Updated my portfolio website.
 
 **Today's Progress**:
 
-MAde some typewrting text and add some content.
+Made some typewriting text and add some content.
 
 ![portfolio](./img/2021-02-11-portfolio.gif)
 
