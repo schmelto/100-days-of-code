@@ -959,10 +959,20 @@ Updated my portfolio website.
 
 **Today's Progress**:
 
-MAde some typewrting text and add some content.
+Made some typewrting text and add some content.
 
 ![portfolio](./img/2021-02-11-portfolio.gif)
 
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/f092fecea781cae1aff6ac1f013a94c59af869c7
+
+### Day 060: Februar 12, 2021 (Portfolio)
+
+**Today's Progress**:
+
+add some assets
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/1dce59feb317f74e49c6227d0dd58ceec0c73008
