@@ -976,3 +976,13 @@ add some assets
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/1dce59feb317f74e49c6227d0dd58ceec0c73008
+
+### Day 061: Februar 13, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Update portfolio 
+
+**Link to work:**
+
+* n/a
