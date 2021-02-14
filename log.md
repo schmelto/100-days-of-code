@@ -986,3 +986,14 @@ Update portfolio
 **Link to work:**
 
 * n/a
+
+### Day 062: Februar 14, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Cabt really do anything due outage of internet 
+
+**Link to work:**
+
+* n/a
+
