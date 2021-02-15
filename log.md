@@ -991,9 +991,19 @@ Update portfolio
 
 **Today's Progress**:
 
-Cabt really do anything due outage of internet 
+Can't really do anything due outage of internet 
 
 **Link to work:**
 
 * n/a
 
+
+### Day 063: Februar 15, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Made my porfolio little bit more responsive.
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/1415c84a0b16c31ef30f0119c69b52346fdff0c6
