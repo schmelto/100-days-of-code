@@ -1016,6 +1016,8 @@ Thought about an icon for the NewsApp.
 
 ![image](https://user-images.githubusercontent.com/30869493/108114834-952d1900-7099-11eb-89d7-08f2e3ddd448.png)
 
+Further I fixed some issues in my portfolio
+
 **Link to work:**
 
-* 
+* https://github.com/schmelto/portfolio/commit/1635274c310e907ed57428c29dbaca50ec00244c
