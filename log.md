@@ -1007,3 +1007,15 @@ Made my porfolio little bit more responsive.
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/1415c84a0b16c31ef30f0119c69b52346fdff0c6
+
+### Day 064: Februar 16, 2021 (Stuff)
+
+**Today's Progress**:
+
+Thought about an icon for the NewsApp.
+
+![image](https://user-images.githubusercontent.com/30869493/108114834-952d1900-7099-11eb-89d7-08f2e3ddd448.png)
+
+**Link to work:**
+
+* 
