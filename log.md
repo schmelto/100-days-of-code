@@ -959,10 +959,77 @@ Updated my portfolio website.
 
 **Today's Progress**:
 
-Made some typewriting text and add some content.
+Made some typewrting text and add some content.
 
 ![portfolio](./img/2021-02-11-portfolio.gif)
 
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/f092fecea781cae1aff6ac1f013a94c59af869c7
+
+### Day 060: Februar 12, 2021 (Portfolio)
+
+**Today's Progress**:
+
+add some assets
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/1dce59feb317f74e49c6227d0dd58ceec0c73008
+
+### Day 061: Februar 13, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Update portfolio 
+
+**Link to work:**
+
+* n/a
+
+### Day 062: Februar 14, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Can't really do anything due outage of internet 
+
+**Link to work:**
+
+* n/a
+
+
+### Day 063: Februar 15, 2021 (Portfolio)
+
+**Today's Progress**:
+
+Made my porfolio little bit more responsive.
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/1415c84a0b16c31ef30f0119c69b52346fdff0c6
+
+### Day 064: Februar 16, 2021 (Stuff)
+
+**Today's Progress**:
+
+Thought about an icon for the NewsApp.
+
+![image](https://user-images.githubusercontent.com/30869493/108114834-952d1900-7099-11eb-89d7-08f2e3ddd448.png)
+
+Further I fixed some issues in my portfolio
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/1635274c310e907ed57428c29dbaca50ec00244c
+
+### Day 065: Februar 17, 2021 (Contact Form)
+
+**Today's Progress**:
+
+Added a JavaScript E-Mail Contact Form to my protfolio
+
+![mail contact](./img/2021-02-17-mail.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/7b4fe656a0661514029cd881251e125da0aadbb3
