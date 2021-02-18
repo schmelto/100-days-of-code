@@ -1033,3 +1033,17 @@ Added a JavaScript E-Mail Contact Form to my protfolio
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/7b4fe656a0661514029cd881251e125da0aadbb3
+
+### Day 066: Februar 18, 2021 (socials)
+
+**Today's Progress**:
+
+Resolved and added some bugs to my portfolio and align the socials -> released to github pages
+
+![socials](./img/2021-02-18-socials.jpg)
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/7b4fe656a0661514029cd881251e125da0aadbb3
+
+
