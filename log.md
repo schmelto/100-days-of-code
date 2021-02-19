@@ -1046,4 +1046,12 @@ Resolved and added some bugs to my portfolio and align the socials -> released t
 
 * https://github.com/schmelto/portfolio/commit/7b4fe656a0661514029cd881251e125da0aadbb3
 
+### Day 066: Februar 18, 2021 (projects)
 
+**Today's Progress**:
+
+Radded some projects to my websotewebsite 
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/f2fc246663ffaad3b8301b94d562a3b134103a92
