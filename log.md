@@ -1074,3 +1074,13 @@ adjsutements
 **Link to work:**
 
 * n/a
+
+### Day 070: Februar 22, 2021 (portfolio)
+
+**Today's Progress**:
+
+Fixed the last issues and released version v1.1.0 of my developer portfolio website.
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/releases/tag/v.1.1.0
