@@ -1046,4 +1046,52 @@ Resolved and added some bugs to my portfolio and align the socials -> released t
 
 * https://github.com/schmelto/portfolio/commit/7b4fe656a0661514029cd881251e125da0aadbb3
 
+### Day 067: Februar 19, 2021 (projects)
 
+**Today's Progress**:
+
+Added some projects to my websotewebsite 
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/f2fc246663ffaad3b8301b94d562a3b134103a92
+
+### Day 068: Februar 20, 2021 (portfolio)
+
+**Today's Progress**:
+
+small improvements
+
+**Link to work:**
+
+* n/a
+
+### Day 069: Februar 21, 2021 (portfolio)
+
+**Today's Progress**:
+adjsutements
+
+**Link to work:**
+
+* n/a
+
+### Day 070: Februar 22, 2021 (portfolio)
+
+**Today's Progress**:
+
+Fixed the last issues and released version v1.1.0 of my developer portfolio website.
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/releases/tag/v.1.1.0
+
+### Day 071: Februar 23, 2021 (own operating system)
+
+**Today's Progress**:
+
+Started tu build my own operating system.
+
+**Link to work:**
+
+* https://github.com/schmelto/operating-system/commit/1b542f29dfd31513f63ebc000abaa68cf4dd052f
+* https://github.com/schmelto/operating-system/commit/413341bfe59627625a4390932d28c3bc135eedb1
