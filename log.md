@@ -1084,3 +1084,14 @@ Fixed the last issues and released version v1.1.0 of my developer portfolio webs
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/releases/tag/v.1.1.0
+
+### Day 071: Februar 23, 2021 (own operating system)
+
+**Today's Progress**:
+
+Started tu build my own operating system.
+
+**Link to work:**
+
+* https://github.com/schmelto/operating-system/commit/1b542f29dfd31513f63ebc000abaa68cf4dd052f
+* https://github.com/schmelto/operating-system/commit/413341bfe59627625a4390932d28c3bc135eedb1
