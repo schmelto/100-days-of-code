@@ -1091,7 +1091,7 @@ Fixed the last issues and released version v1.1.0 of my developer portfolio webs
 
 Started to build my own operating system.
 
-![os](./img/2021-02-23-os.png)
+![os](./img/2021-02-23-os.PNG)
 
 **Link to work:**
 
