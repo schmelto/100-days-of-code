@@ -1097,3 +1097,15 @@ Started to build my own operating system.
 
 * https://github.com/schmelto/operating-system/commit/1b542f29dfd31513f63ebc000abaa68cf4dd052f
 * https://github.com/schmelto/operating-system/commit/413341bfe59627625a4390932d28c3bc135eedb1
+
+### Day 072: Februar 24, 2021 (own operating system)
+
+**Today's Progress**:
+
+Convert to 64 bit and ong mode added c language support
+
+![os](./img/2021-02-24-os.PNG)
+
+**Link to work:**
+
+* https://github.com/schmelto/operating-system/releases/tag/v1.2
