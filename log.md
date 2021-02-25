@@ -1102,10 +1102,20 @@ Started to build my own operating system.
 
 **Today's Progress**:
 
-Convert to 64 bit and ong mode added c language support
+Convert to 64 bit and long mode added c language support
 
 ![os](./img/2021-02-24-os.PNG)
 
 **Link to work:**
 
 * https://github.com/schmelto/operating-system/releases/tag/v1.2
+
+### Day 073: Februar 25, 2021 (clean ups some code)
+
+**Today's Progress**:
+
+clean up some code
+
+**Link to work:**
+
+* n/a
