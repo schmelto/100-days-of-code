@@ -1119,3 +1119,24 @@ clean up some code
 **Link to work:**
 
 * n/a
+
+### Day 074: Februar 26, 2021 (potato app)
+
+**Today's Progress**:
+
+Started an ionic angular porato salada app.
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/5ad04a96a92a9dfaf79b3d1cd13358c7cb28f09a
+
+
+### Day 075: Februar 27, 2021 (wireframe)
+
+**Today's Progress**:
+
+Coding and wireframing for the potato app
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/0a6314e27b396ceecbb0b92aa5a8f81ac5fbaaa3
