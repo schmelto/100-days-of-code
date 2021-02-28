@@ -1140,3 +1140,13 @@ Coding and wireframing for the potato app
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/0a6314e27b396ceecbb0b92aa5a8f81ac5fbaaa3
+
+### Day 076: Februar 28, 2021 (android app)
+
+**Today's Progress**:
+
+Finsihed the potato-salad app and realesaed it on android.
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/75b744269dcad3700fbf9aa477289f273d0d54c2
