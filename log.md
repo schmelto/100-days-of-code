@@ -1150,3 +1150,13 @@ Finsihed the potato-salad app and realesaed it on android.
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/75b744269dcad3700fbf9aa477289f273d0d54c2
+
+### Day 077: March 01, 2021 (clean up)
+
+**Today's Progress**:
+
+due of @eddiejaoude livestream started to create an issue for nearly everything :) and cleaned up some code in the potato salad app and released version v1.0. 
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/56a7a0e250fd131b645bafd40b495bd1df5fbdc6
