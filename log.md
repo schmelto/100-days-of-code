@@ -1160,3 +1160,13 @@ due of @eddiejaoude livestream started to create an issue for nearly everything 
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/56a7a0e250fd131b645bafd40b495bd1df5fbdc6
+
+### Day 078: March 02, 2021 (3d)
+
+**Today's Progress**:
+
+add a cool 3d render
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/fe5bd100788a5d33e6fdfdaf3e096d7956304545
