@@ -1170,3 +1170,13 @@ add a cool 3d render
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/fe5bd100788a5d33e6fdfdaf3e096d7956304545
+
+### Day 079: March 03, 2021 (resolved and added some issues)
+
+**Today's Progress**:
+
+resolved and added some issues
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/d1aa681beed737743733ba8f3db4fe00ecb58dc3
