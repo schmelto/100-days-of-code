@@ -1180,3 +1180,13 @@ resolved and added some issues
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/d1aa681beed737743733ba8f3db4fe00ecb58dc3
+
+### Day 080: March 04, 2021 (Flutter)
+
+**Today's Progress**:
+
+Stared to learn some Flutter and created my first flutter app
+
+**Link to work:**
+
+* https://github.com/schmelto/startup_namer/commit/c0b5eb26c896db797bd5c0e98a7f0f63d5e38e14
