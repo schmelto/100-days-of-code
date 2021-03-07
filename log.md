@@ -1213,3 +1213,11 @@ added some features to the app
 
 * https://github.com/schmelto/potato-app/commit/5cb81c41cb36e65f559228639a71e5e68edd1f49
 
+### Day 083: March 07, 2021 (i18n)
+
+**Today's Progress**:
+added language suppoert with i18n files to the app
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/fa76b3d3749044ab9ffa00e34d892a8cb702fc29
