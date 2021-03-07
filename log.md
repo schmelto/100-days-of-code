@@ -1203,3 +1203,13 @@ Finished the potato app -> got the final app icon today and releaded the apk fil
 
 * https://github.com/schmelto/potato-app/commit/d4a15c7a9c0f2d6db2d31e812af73581fa536f20
 
+### Day 082: March 06, 2021 (Improvements)
+
+**Today's Progress**:
+
+added some features to the app
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/5cb81c41cb36e65f559228639a71e5e68edd1f49
+
