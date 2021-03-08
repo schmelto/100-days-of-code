@@ -1221,3 +1221,15 @@ added language suppoert with i18n files to the app
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/fa76b3d3749044ab9ffa00e34d892a8cb702fc29
+
+
+### Day 084: March 08, 2021 (i18n)
+
+**Today's Progress**:
+
+on the fly language switch with buttons.
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/ec109abd4cc485946ce563a727ddd0a83d2daa07
+
