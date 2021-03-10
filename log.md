@@ -1233,7 +1233,7 @@ on the fly language switch with buttons.
 
 * https://github.com/schmelto/potato-app/commit/ec109abd4cc485946ce563a727ddd0a83d2daa07
 
-### Day 085: March 08, 2021 (final)
+### Day 085: March 09, 2021 (final)
 
 **Today's Progress**:
 
@@ -1242,3 +1242,17 @@ added the final touches to the potato app
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/dfe51e90c92766c6cb93dfeac8c0e31e2bc52ca9
+
+### Day 086: March 10, 2021 (round that thing)
+
+**Today's Progress**:
+
+Love those simple solutions
+
+```js
+Math.round((num + Number.EPSILON) * 100) / 100
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/e7e03ec7f25bf8a156fb129938453cfee5c6980e
