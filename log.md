@@ -1256,3 +1256,13 @@ Math.round((num + Number.EPSILON) * 100) / 100
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/e7e03ec7f25bf8a156fb129938453cfee5c6980e
+
+### Day 087: March 11, 2021 (some cleaning)
+
+**Today's Progress**:
+
+cleand up the code a little bit
+
+**Link to work:**
+
+* https://github.com/schmelto/potato-app/commit/abf85be07981fa0e4588edb65c633f0c6eaf8396
