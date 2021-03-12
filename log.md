@@ -1266,3 +1266,13 @@ cleand up the code a little bit
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/abf85be07981fa0e4588edb65c633f0c6eaf8396
+
+### Day 088: March 12, 2021 (git and flutter)
+
+**Today's Progress**:
+
+learned soem git and some flutter
+
+**Link to work:**
+
+* https://github.com/schmelto/startup_namer/commit/f533f96019786d6c222b5bf8a52f8cd32acb01c0
