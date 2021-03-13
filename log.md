@@ -1271,8 +1271,18 @@ cleand up the code a little bit
 
 **Today's Progress**:
 
-learned soem git and some flutter
+learned some git and some flutter
 
 **Link to work:**
 
 * https://github.com/schmelto/startup_namer/commit/f533f96019786d6c222b5bf8a52f8cd32acb01c0
+
+### Day 089: March 13, 2021 (flutter)
+
+**Today's Progress**:
+
+Learned some more flutter
+
+**Link to work:**
+
+* https://github.com/schmelto/startup_namer/commit/e897ac99cb0c249fb95281db72f7ec00782c95a3
