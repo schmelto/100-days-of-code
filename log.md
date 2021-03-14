@@ -1197,8 +1197,6 @@ Stared to learn some Flutter and created my first flutter app
 
 Finished the potato app -> got the final app icon today and releaded the apk file
 
-![splash-old](https://user-images.githubusercontent.com/30869493/110158807-1ef31b00-7dea-11eb-8310-063bc6c7c6b8.png)
-
 **Link to work:**
 
 * https://github.com/schmelto/potato-app/commit/d4a15c7a9c0f2d6db2d31e812af73581fa536f20
