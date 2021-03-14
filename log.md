@@ -1284,3 +1284,16 @@ Learned some more flutter
 **Link to work:**
 
 * https://github.com/schmelto/startup_namer/commit/e897ac99cb0c249fb95281db72f7ec00782c95a3
+
+### Day 090: March 14, 2021 (flutter and unity)
+
+**Today's Progress**:
+
+Got a little bit stuck with flutter and learnd some game development with unity.
+
+But nothing really to commit... :(
+
+
+**Link to work:**
+
+* n/a
