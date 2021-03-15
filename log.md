@@ -1293,7 +1293,18 @@ Got a little bit stuck with flutter and learnd some game development with unity.
 
 But nothing really to commit... :(
 
-
 **Link to work:**
 
 * n/a
+
+### Day 091: March 15, 2021 (flutter chat app)
+
+**Today's Progress**:
+
+started tu buld a flutter chat app with firebase
+
+![image](https://user-images.githubusercontent.com/30869493/111208562-32ad3700-85cb-11eb-8b44-3f75e7680664.png)
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/cb38ccb7b9d8c4750e13d0c7c01ca3cb1f8d181f
