@@ -1308,3 +1308,13 @@ started tu buld a flutter chat app with firebase
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/cb38ccb7b9d8c4750e13d0c7c01ca3cb1f8d181f
+
+### Day 092: March 16, 2021 (firebase)
+
+**Today's Progress**:
+
+add firebase to the project
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/e4b1d08709172f9c42b35fe4feb82c29c4ed76d1
