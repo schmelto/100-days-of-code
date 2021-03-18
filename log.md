@@ -1319,8 +1319,7 @@ add firebase to the project
 
 * https://github.com/schmelto/flutter_chat_app/commit/e4b1d08709172f9c42b35fe4feb82c29c4ed76d1
 
-
-### Day 093: March 16, 2021 (flutter chat app)
+### Day 093: March 17, 2021 (flutter chat app)
 
 **Today's Progress**:
 
@@ -1329,3 +1328,16 @@ some more coding at my flutter chat app
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/7844c01dc27ce9dc96dda6385dcf9f3d8bb4e9aa
+
+
+### Day 094: March 18, 2021 (flutter search firebase)
+
+**Today's Progress**:
+
+started to code the firebase user search 
+
+![image](https://user-images.githubusercontent.com/30869493/111694404-24148900-8832-11eb-866c-cd357d2b49f9.png)
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/0b436a561efd2fe9c750d4a41d1fdd2f49ed6e57
