@@ -1341,3 +1341,13 @@ started to code the firebase user search
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/0b436a561efd2fe9c750d4a41d1fdd2f49ed6e57
+
+### Day 095: March 19, 2021 (flutter search firebase)
+
+**Today's Progress**:
+
+does not work properly ...
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/d1f802077f56d78831581505f40ba1f34e0fa17f
