@@ -1352,7 +1352,6 @@ does not work properly ...
 
 * https://github.com/schmelto/flutter_chat_app/commit/d1f802077f56d78831581505f40ba1f34e0fa17f
 
-
 ### Day 096: March 20, 2021 (usersearch)
 
 **Today's Progress**:
@@ -1362,3 +1361,13 @@ Finally added the user search from firebase
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/8938984ca8cacf2426d9a50c4ea6e080819bc2cd
+
+### Day 097: March 21, 2021 (shared user preferences)
+
+**Today's Progress**:
+
+added shared user preferences to the app
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/d895d1a3085a5a32664644d68036baad512dea01
