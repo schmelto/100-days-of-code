@@ -1371,3 +1371,13 @@ added shared user preferences to the app
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/d895d1a3085a5a32664644d68036baad512dea01
+
+### Day 097: March 21, 2021 (reset password and google signin?!)
+
+**Today's Progress**:
+
+Reset password wokrs now but the google singin doesnt cause of SHA1 Keys or something else IDK.
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/da569d4cd649d7e4877c83c25245537138df3941
