@@ -1372,7 +1372,7 @@ added shared user preferences to the app
 
 * https://github.com/schmelto/flutter_chat_app/commit/d895d1a3085a5a32664644d68036baad512dea01
 
-### Day 097: March 21, 2021 (reset password and google signin?!)
+### Day 098: March 22, 2021 (reset password and google signin?!)
 
 **Today's Progress**:
 
@@ -1381,3 +1381,14 @@ Reset password wokrs now but the google singin doesnt cause of SHA1 Keys or some
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/da569d4cd649d7e4877c83c25245537138df3941
+
+
+### Day 099: March 23, 2021 (create chatrooms)
+
+**Today's Progress**:
+
+you now can create chatrooms in the chat app and in firebase
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/425e087d6e5ba861c00b7f01e3e0d35380d6fdf4
