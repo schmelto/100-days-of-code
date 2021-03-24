@@ -1382,7 +1382,6 @@ Reset password wokrs now but the google singin doesnt cause of SHA1 Keys or some
 
 * https://github.com/schmelto/flutter_chat_app/commit/da569d4cd649d7e4877c83c25245537138df3941
 
-
 ### Day 099: March 23, 2021 (create chatrooms)
 
 **Today's Progress**:
@@ -1392,3 +1391,16 @@ you now can create chatrooms in the chat app and in firebase
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/425e087d6e5ba861c00b7f01e3e0d35380d6fdf4
+
+### Day 100: March 24, 2021 (messages)
+
+**Today's Progress**:
+
+You now can recive and send messages in the chat app
+
+![image](https://user-images.githubusercontent.com/30869493/112375864-118fc900-8ce4-11eb-8cd0-502a1e877fb6.png)
+
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/95fe99a97ee28b71db68c7ba5ee8409ab544852a
