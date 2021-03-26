@@ -1400,7 +1400,27 @@ You now can recive and send messages in the chat app
 
 ![image](https://user-images.githubusercontent.com/30869493/112375864-118fc900-8ce4-11eb-8cd0-502a1e877fb6.png)
 
-
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/95fe99a97ee28b71db68c7ba5ee8409ab544852a
+
+### Day 101: March 25, 2021 (chatrooms)
+
+**Today's Progress**:
+
+added the chatroom view to the app
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/63408f252394c633aa8c9546cb177911795dbbee
+
+
+### Day 102: March 25, 2021 (cleaning)
+
+**Today's Progress**:
+
+some cleanup in the code
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/4e905994507e3c9a72bae8259af7d3bb1c8cc0eb
