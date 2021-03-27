@@ -1424,3 +1424,13 @@ some cleanup in the code
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/4e905994507e3c9a72bae8259af7d3bb1c8cc0eb
+
+### Day 103: March 25, 2021 (stack)
+
+**Today's Progress**:
+
+stuck with the stack propertie of flutter
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/76458a9061456348439e3c41ca960e1b04803648
