@@ -1429,7 +1429,7 @@ some cleanup in the code
 
 **Today's Progress**:
 
-stuck with the stack propertie of flutter
+stuck with the stack property of flutter
 
 **Link to work:**
 
