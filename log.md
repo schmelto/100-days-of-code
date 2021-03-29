@@ -1451,6 +1451,35 @@ tried to add google signin
 
 Generate SHA1 and SHA256 Key and added finally the google signin functionality 
 
+
+```dart
+  Future signInWithGoogle(BuildContext context) async {
+    final GoogleSignIn _googleSignIn = new GoogleSignIn();
+
+    final GoogleSignInAccount googleSignInAccount =
+        await _googleSignIn.signIn();
+    final GoogleSignInAuthentication googleSignInAuthentication =
+        await googleSignInAccount.authentication;
+
+    final AuthCredential credential = GoogleAuthProvider.credential(
+        idToken: googleSignInAuthentication.idToken,
+        accessToken: googleSignInAuthentication.accessToken);
+
+    UserCredential result = await _auth.signInWithCredential(credential);
+    User user = result.user;
+
+    if (user == null) {
+    } else {
+      print(user.displayName);
+      HelperFunctions.saveUserEmailSharedPreference(user.email);
+      HelperFunctions.saveUserNameSharedPreference(user.displayName);
+      HelperFunctions.saveUserLoggedInSharedPreference(true);
+      Navigator.pushReplacement(
+          context, MaterialPageRoute(builder: (context) => ChatRoom()));
+    }
+  }
+```
+
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/f912c2531c7307b17fad9517f50aeea818c219c0
