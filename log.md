@@ -1483,3 +1483,13 @@ Generate SHA1 and SHA256 Key and added finally the google signin functionality
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/f912c2531c7307b17fad9517f50aeea818c219c0
+
+### Day 106: March 30, 2021 (github action)
+
+**Today's Progress**:
+
+Added github action to automatically deploy release apk for the flutter app
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app/commit/b4cc0e82aa0b1a98c2ff0ef8482807ee36d4fffb
