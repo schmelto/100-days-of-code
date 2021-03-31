@@ -1493,3 +1493,13 @@ Added github action to automatically deploy release apk for the flutter app
 **Link to work:**
 
 * https://github.com/schmelto/flutter_chat_app/commit/b4cc0e82aa0b1a98c2ff0ef8482807ee36d4fffb
+
+### Day 107: March 31, 2021 (github action)
+
+**Today's Progress**:
+
+github actions course
+
+**Link to work:**
+
+* n/a
