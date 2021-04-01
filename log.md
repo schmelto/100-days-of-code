@@ -1503,3 +1503,14 @@ github actions course
 **Link to work:**
 
 * n/a
+
+
+### Day 108: March 31, 2021 (conventional commits)
+
+**Today's Progress**:
+
+Take a look at conventional commits and played around with some automatically created change logs with conventional commits
+
+**Link to work:**
+
+* https://github.com/schmelto/conventional_commit/commit/57145169b8cbdf3218c9e3ad18e6863861d17e2f
