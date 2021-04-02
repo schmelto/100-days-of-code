@@ -1514,3 +1514,6 @@ Take a look at conventional commits and played around with some automatically cr
 **Link to work:**
 
 * https://github.com/schmelto/conventional_commit/commit/57145169b8cbdf3218c9e3ad18e6863861d17e2f
+
+
+Added push notifications 
