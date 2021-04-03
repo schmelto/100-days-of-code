@@ -1505,11 +1505,11 @@ github actions course
 * n/a
 
 
-### Day 108: March 31, 2021 (conventional commits)
+### Day 108: April 01, 2021 ()
 
 **Today's Progress**:
 
-Take a look at conventional commits and played around with some automatically created change logs with conventional commits
+add push notifications
 
 **Link to work:**
 
@@ -1517,3 +1517,9 @@ Take a look at conventional commits and played around with some automatically cr
 
 
 Added push notifications 
+
+
+
+april 03
+
+thougt of some app ideas
