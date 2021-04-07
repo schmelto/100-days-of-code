@@ -1505,7 +1505,7 @@ github actions course
 * n/a
 
 
-### Day 108: April 01, 2021 ()
+### Day 108: April 01, 2021 (push notifications)
 
 **Today's Progress**:
 
@@ -1515,19 +1515,65 @@ add push notifications
 
 * https://github.com/schmelto/conventional_commit/commit/57145169b8cbdf3218c9e3ad18e6863861d17e2f
 
+### Day 109: April 02, 2021 (push notifications)
+
+**Today's Progress**:
 
 Added push notifications 
 
+**Link to work:**
 
+* n/a
 
-april 03
+### Day 110: April 03, 2021 (ideas)
+
+**Today's Progress**:
 
 thougt of some app ideas
 
-04
+**Link to work:**
 
-05
+* n/a
 
-06
+### Day 111: April 04, 2021 (chat app 2.0)
+
+**Today's Progress**:
+
+start over the chat app project
+![image](https://user-images.githubusercontent.com/30869493/113848731-0f744280-9799-11eb-9745-6635b18a1f4c.png)
+
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app_2/commit/fba137ea78bc3e6c2d3c0f5a320909938e77257e
+
+### Day 112: April 05, 2021 (chat screem)
+
+**Today's Progress**:
+
+Messed around with the chat screen layout 
+
+**Link to work:**
+
+* https://github.com/schmelto/flutter_chat_app_2/commit/7c8db5f1cfafb1604445fcc875eee1c6db2c26ff
+
+### Day 113: April 06, 2021 (jumpy)
+
+**Today's Progress**:
 
 Started a unity game project
+
+**Link to work:**
+
+* n/a
+
+### Day 114: April 07, 2021 (jumpy v1.0)
+
+**Today's Progress**:
+
+![image](https://user-images.githubusercontent.com/30869493/113848045-5ca3e480-9798-11eb-931c-3c506a592afd.png)
+
+**Link to work:**
+
+
+* n/a
