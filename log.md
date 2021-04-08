@@ -1575,5 +1575,14 @@ Started a unity game project
 
 **Link to work:**
 
+* n/a
+
+### Day 115: April 08, 2021 (jumpy)
+
+**Today's Progress**:
+
+some more game development. I should take a look on how to easily upload Unity Project via git to GitHub.
+
+**Link to work:**
 
 * n/a
