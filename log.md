@@ -1614,6 +1614,20 @@ Some open spurce contribution
 
 Add counter for acitve game objects in the scene to specify max number of platforms visible in the scene
 
+```csharp
+// Update is called once per frame
+void Update()
+{
+    Object[] allObjects = GameObject.FindObjectsOfType(typeof(MonoBehaviour)); //returns Object[]
+    if(allObjects.Length <= 6)
+    {
+        createNewObject = true;
+    } else {
+        createNewObject = false;
+    }
+}
+```
+
 **Link to work:**
 
 * https://github.com/schmelto/jumpy_game/commit/8642eb03b866e1a5824c595a15973ea8ebf963f4
