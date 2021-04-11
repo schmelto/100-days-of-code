@@ -1608,4 +1608,14 @@ Some open spurce contribution
 * https://github.com/eddiejaoude/stargate/pull/125
 * ...
 
+### Day 118: April 11, 2021 (Count Game Objects)
+
+**Today's Progress**:
+
+Add counter for acitve game objects in the scene to specify max number of platforms visible in the scene
+
+**Link to work:**
+
+* https://github.com/schmelto/jumpy_game/commit/8642eb03b866e1a5824c595a15973ea8ebf963f4
+
 
