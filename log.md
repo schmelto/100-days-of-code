@@ -1632,7 +1632,7 @@ void Update()
 
 * https://github.com/schmelto/jumpy_game/commit/8642eb03b866e1a5824c595a15973ea8ebf963f4
 
-### Day 119: April 112, 2021 (Open source)
+### Day 119: April 12, 2021 (Open source)
 
 **Today's Progress**:
 
@@ -1641,4 +1641,14 @@ Some more open source
 **Link to work:**
 
 * https://github.com/aniketsingh98571/HeaLearn/commit/7fce436d77cab021ca1f8ccd55b8c2e345390a81
+
+### Day 120: April 13, 2021 (UI5 Webcomponents)
+
+**Today's Progress**:
+
+Looked at UI5 Web Components.
+
+**Link to work:**
+
+* https://github.com/schmelto/ui5-web-components-application/commit/27dfaa1d9d1c9927c21d7b13826fffac407b62a3
 
