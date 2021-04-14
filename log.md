@@ -1652,3 +1652,14 @@ Looked at UI5 Web Components.
 
 * https://github.com/schmelto/ui5-web-components-application/commit/27dfaa1d9d1c9927c21d7b13826fffac407b62a3
 
+### Day 121: April 13, 2021 (npm package)
+
+**Today's Progress**:
+Created my first own gitubb npm package
+
+![image](https://user-images.githubusercontent.com/30869493/114757407-1df3c880-9d5c-11eb-8a4f-c99d653fd8fc.png)
+
+
+**Link to work:**
+
+* https://github.com/schmelto/npm-package-schmelto/packages/730968?version=1.0.1
