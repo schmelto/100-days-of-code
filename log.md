@@ -1675,5 +1675,15 @@ Woking on a timeline in my portfolio
 
 * https://github.com/schmelto/portfolio/commit/ff597a6c113519adfa3e6785515f9a6ea0e048f8
 
+### Day 123: April 16, 2021 (timeline)
+
+**Today's Progress**:
+
+some cleaning and merging of the porfolio
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/eae770a7c3c5fbd2ba1522c5a96de2a4098f1a2a
+
 
 
