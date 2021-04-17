@@ -1685,5 +1685,16 @@ some cleaning and merging of the porfolio
 
 * https://github.com/schmelto/portfolio/commit/eae770a7c3c5fbd2ba1522c5a96de2a4098f1a2a
 
+### Day 124: April 17, 2021 (certifcates)
+
+**Today's Progress**:
+
+love flexbox added certificates to the portfolio
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/96684afbfbec71c61ac1b30d816bad88cfefd8f6
+
+
 
 
