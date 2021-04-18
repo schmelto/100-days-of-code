@@ -1705,9 +1705,12 @@ adjusted some css and working on a dark / light mode feature
 @media (prefers-color-scheme: dark) {}
 ```
 
+Made Day on of Advent of Code 2020 in ABAP
+
+![image](https://user-images.githubusercontent.com/30869493/115150518-0b81d380-a069-11eb-9613-8a05bf507a2f.png)
+
+
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/48c9400ca93578b41ee7f2f04fa7720a8222f783
-
-
-
+* https://github.com/schmelto/abap-advent-2020/commit/78b7fa4fb89dcfdff97daa59dc3db4a1433ee9a4
