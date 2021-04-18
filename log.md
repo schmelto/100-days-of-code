@@ -1695,6 +1695,19 @@ love flexbox added certificates to the portfolio
 
 * https://github.com/schmelto/portfolio/commit/96684afbfbec71c61ac1b30d816bad88cfefd8f6
 
+### Day 125: April 18, 2021 (dark mode)
+
+**Today's Progress**:
+
+adjusted some css and working on a dark / light mode feature
+
+```css
+@media (prefers-color-scheme: dark) {}
+```
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/48c9400ca93578b41ee7f2f04fa7720a8222f783
 
 
 
