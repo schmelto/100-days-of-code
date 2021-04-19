@@ -1714,3 +1714,14 @@ Made Day on of Advent of Code 2020 in ABAP
 
 * https://github.com/schmelto/portfolio/commit/48c9400ca93578b41ee7f2f04fa7720a8222f783
 * https://github.com/schmelto/abap-advent-2020/commit/78b7fa4fb89dcfdff97daa59dc3db4a1433ee9a4
+
+
+### Day 126: April 19, 2021 (portfolio)
+
+**Today's Progress**:
+
+added some features to the portfolio
+
+**Link to work:**
+
+* https://github.com/schmelto/portfolio/commit/8784a7c7476d5ba147615b0521248a39992cff14
