@@ -1725,3 +1725,13 @@ added some features to the portfolio
 **Link to work:**
 
 * https://github.com/schmelto/portfolio/commit/8784a7c7476d5ba147615b0521248a39992cff14
+
+### Day 127: April 20, 2021 (ABAP Code Advent Day 3)
+
+**Today's Progress**:
+
+Developed some ABAP Code
+
+**Link to work:**
+
+* https://github.com/schmelto/abap-advent-2020/commit/1f21bf0ffede8ba23f977bfd1847400bf636bd24
