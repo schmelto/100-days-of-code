@@ -1735,3 +1735,14 @@ Developed some ABAP Code
 **Link to work:**
 
 * https://github.com/schmelto/abap-advent-2020/commit/1f21bf0ffede8ba23f977bfd1847400bf636bd24
+
+### Day 128: April 21, 2021 (extension)
+
+**Today's Progress**:
+developed my first vscode extension
+
+**Link to work:**
+
+* https://github.com/schmelto/vsc-extension/commit/21f6bedd9caba08fa0b7d6f392903b76e35c50a4
+
+
