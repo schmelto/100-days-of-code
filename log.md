@@ -1745,4 +1745,13 @@ developed my first vscode extension
 
 * https://github.com/schmelto/vsc-extension/commit/21f6bedd9caba08fa0b7d6f392903b76e35c50a4
 
+### Day 129: April 22, 2021 (stuff)
+
+**Today's Progress**:
+
+go through some stuff but not worked on something specific
+
+**Link to work:**
+
+* n/a
 
