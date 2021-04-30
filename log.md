@@ -1751,3 +1751,83 @@ some open source contribution
 
 - <https://github.com/SAP/styleguides/pull/202>
 - <https://github.com/EddieHubCommunity/support/pull/1379>
+
+### Day 131: April 23, 2021
+
+**Today's Progress**:
+
+light mode for my portfolio
+
+**Link to work:**
+
+- n/a
+
+### Day 132: April 24, 2021
+
+**Today's Progress**:
+
+some adjustment for the dark mode
+
+**Link to work:**
+
+- n/a
+
+### Day 133: April 25, 2021
+
+**Today's Progress**:
+
+just developed in the development branch. Why is git so cool?
+
+**Link to work:**
+
+- n/a
+
+### Day 134: April 26, 2021
+
+**Today's Progress**:
+
+deployed the changes to Prod
+
+**Link to work:**
+
+- n/a
+
+### Day 135: April 27, 2021
+
+**Today's Progress**:
+
+opensource
+
+**Link to work:**
+
+- n/a
+
+### Day 136: April 28, 2021
+
+**Today's Progress**:
+
+added eslint and prettier as github action
+
+**Link to work:**
+
+- n/a
+
+### Day 137: April 29, 2021
+
+**Today's Progress**:
+
+refactor eslint
+
+**Link to work:**
+
+- n/a
+
+### Day 138: April 30, 2021
+
+**Today's Progress**:
+
+<https://pbs.twimg.com/media/E0O9zVGXsAgo0tI?format=png&name=small>
+
+**Link to work:**
+
+- <https://github.com/schmelto/portfolio/commit/03090f0992cd2acb3c7fdf17445bf36846b512dd>
