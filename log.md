@@ -1831,3 +1831,13 @@ refactor eslint
 **Link to work:**
 
 - <https://github.com/schmelto/portfolio/commit/03090f0992cd2acb3c7fdf17445bf36846b512dd>
+
+### Day 139: May 01, 2021
+
+**Today's Progress**:
+
+build a docker container running pyhton scripts
+
+**Link to work:**
+
+- n/a
