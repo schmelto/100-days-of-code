@@ -1843,3 +1843,31 @@ build a docker container running pyhton scripts
 **Link to work:**
 
 - n/a
+
+
+### Day 140: May 02, 2021
+
+**Today's Progress**:
+
+is it only me or someone else start projects initialize a @github repo and abandon the project?
+
+
+**Link to work:**
+
+- <https://github.com/schmelto/shopping_list/commit/2263b955b666935bf5ce1d952431c13f59c33727>
+
+### Day 140: May 02, 2021
+
+**Today's Progress**:
+
+Improving those scores
+
+![image](https://user-images.githubusercontent.com/30869493/116928364-408f4800-ac5d-11eb-97aa-b7c6f7c56320.png)
+
+
+**Link to work:**
+
+- <https://github.com/schmelto/portfolio/commit/4fba13e2c6f689701d1da6446d8072ea155f35af>
+
+
+
