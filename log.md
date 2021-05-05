@@ -1870,4 +1870,34 @@ Improving those scores
 - <https://github.com/schmelto/portfolio/commit/4fba13e2c6f689701d1da6446d8072ea155f35af>
 
 
+### Day 141: May 03, 2021
 
+**Today's Progress**:
+
+![image](https://user-images.githubusercontent.com/30869493/117195807-07361400-ade6-11eb-99f6-0356493c882d.png)
+
+
+**Link to work:**
+
+- n/a
+
+### Day 142: May 04, 2021
+
+**Today's Progress**:
+
+speeding up the website resolved some bugs implemented some new ones
+
+**Link to work:**
+
+- n/a
+
+### Day 143: May 05, 2021
+
+**Today's Progress**:
+
+![image](https://user-images.githubusercontent.com/30869493/117195770-fc7b7f00-ade5-11eb-9c9e-110e84b01b87.png)
+
+
+**Link to work:**
+
+- <https://github.com/schmelto/portfolio/pull/74>
