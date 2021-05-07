@@ -1921,3 +1921,13 @@ PR for setting dark mode on user preference adjustements etc.
 **Link to work:**
 
 - <https://github.com/DenverCoder1/github-readme-streak-stats/pull/91>
+
+### Day 146: May 07, 2021
+
+**Today's Progress**:
+
+updated the news app :)
+
+**Link to work:**
+
+- <https://github.com/schmelto/NewsApp/commit/74226b59ab23f0dd3dfc168f33b5e4987931ecb5>
