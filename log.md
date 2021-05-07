@@ -1901,3 +1901,23 @@ speeding up the website resolved some bugs implemented some new ones
 **Link to work:**
 
 - <https://github.com/schmelto/portfolio/pull/74>
+
+### Day 144: May 06, 2021
+
+**Today's Progress**:
+
+only some small changes here and there started PR for setting dark mode on user preference
+
+**Link to work:**
+
+- <https://github.com/DenverCoder1/github-readme-streak-stats/pull/91>
+
+### Day 145: May 07, 2021
+
+**Today's Progress**:
+
+PR for setting dark mode on user preference adjustements etc.
+
+**Link to work:**
+
+- <https://github.com/DenverCoder1/github-readme-streak-stats/pull/91>
